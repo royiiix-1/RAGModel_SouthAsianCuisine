@@ -163,7 +163,7 @@
         {
             "query_id": "SA_006",
             "query": "What is Ema Datshi and what are its main ingredients?",
-            "response": "Based on the information provided:\n\nEma Datshi is a type of rice-based dish found in Bangladesh. Its main ingredients include:\n\n1. Rice\n2. Various types of vegetables (e.g., carrots, potatoes)\n3. Fish (specifically, king chilli fish)\n4. Fermented fish (ngari)\n5. Salt\n\nThese ingredients combine to create a flavorful and nutritious dish that is often used in various regional cuisines across Southeast Asia.",
+            "response": "Based on the information provided:\n\nEma Datshi is a type of fish dish found in the Chittagong Hill Tracts region of Bangladesh. Its main ingredients include:\n\n1. **Fish**: Specifically, it includes dried fish.\n2. **Fermented Bamboo Shoots**: These are used as a key ingredient in the preparation process.\n3. **Other Seasonal Ingredients**: Additional seasonal ingredients such as wild mushrooms, flowers of ginger, and turmeric plants are mentioned.\n\nSo, in summary, Ema Datshi is a dish that combines dried fish with fermented bamboo shoots, along with other seasonal ingredients like wild mushrooms and turmeric.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -175,15 +175,15 @@
                 },
                 {
                     "doc_id": "002",
-                    "text": "The Chittagong Hill Tracts are home to tribes with their own culture and cuisine. Chakma cuisine uses sidol , a paste made from fermented shrimps and fish, and suguni , dried shrimp or fish. Their dishes use more herbs from the hills more than the spices common in Bengali dishes. Important seasonal ingredients include wild mushrooms and the Flowers of ginger and turmeric plants. Sumoh gorang is a dish cooked in bamboo and Hebaang is baked in banana leaves in a mud oven. Marma cuisine uses a paste of dried fish called nappi . Rice beer is a popular drink."
+                    "text": "The masor tenga is a light and sour fish dish, another signature class of preparations. There are numerous ways of preparing the sour fish curry among Assamese people. The souring ingredient could be mangosteen , lemon , tomatoes , roselle leaves, Outenga, Manimuni, Tengesi, etc. Another important ingredient is kokum. Fish dishes made with fermented bamboo shoot (khorisa) are generally sour, but they are not called tenga . Fish is fried in mustard oil or stewed with bottle gourd or spinach or boiled simply. Another tenga dish is prepared with matimah ( urad bean ) and outenga ( elephant apple ). Bottle gourd can be added to it. Tengamora ( Roselle (plant) ) or noltenga ( Indian chestnut vine ) and lentil is a distinct tenga curry ."
                 },
                 {
                     "doc_id": "003",
-                    "text": "There are common elements among these variants including dahi , or yogurt; chopped onions and coriander ; sev (small dried yellow salty noodles ); and chaat masala , a spice mix typically consisting of amchoor (dried mango powder), cumin , kala namak (rock salt), coriander , dried ginger , salt, black pepper , and red pepper . The ingredients are combined and served on a small metal plate or a banana leaf, dried and formed into a bowl."
+                    "text": "The Chittagong Hill Tracts are home to tribes with their own culture and cuisine. Chakma cuisine uses sidol , a paste made from fermented shrimps and fish, and suguni , dried shrimp or fish. Their dishes use more herbs from the hills more than the spices common in Bengali dishes. Important seasonal ingredients include wild mushrooms and the Flowers of ginger and turmeric plants. Sumoh gorang is a dish cooked in bamboo and Hebaang is baked in banana leaves in a mud oven. Marma cuisine uses a paste of dried fish called nappi . Rice beer is a popular drink."
                 },
                 {
                     "doc_id": "004",
-                    "text": "Rice is a staple element in South Indian cuisine, served boiled or made into uttapam pancakes, dosas , or idli steamed cakes. Other characteristic ingredients include coconut oil for cooking and lentils for dal ."
+                    "text": "There are common elements among these variants including dahi , or yogurt; chopped onions and coriander ; sev (small dried yellow salty noodles ); and chaat masala , a spice mix typically consisting of amchoor (dried mango powder), cumin , kala namak (rock salt), coriander , dried ginger , salt, black pepper , and red pepper . The ingredients are combined and served on a small metal plate or a banana leaf, dried and formed into a bowl."
                 }
             ],
             "config": {
@@ -259,7 +259,7 @@
         {
             "query_id": "SA_009",
             "query": "How does Sindhi biryani differ from Hyderabadi biryani?",
-            "response": "Sindhi biryani differs from Hyderabadi biryani in that it uses Basmati rice instead of ordinary rice. This makes it unique to the Sindhi region of South Asia.",
+            "response": "Sindhi biryani differs from Hyderabadi biryani in several ways:\n\n1. Spices: Sindhi biryani uses a combination of spices that are specific to the region, including turmeric, cumin, cardamom, cinnamon, and saffron. In contrast, Hyderabadi biryani primarily uses basmati rice and a few common spices like cumin, coriander, and cinnamon.\n\n2. Preparation Time: While both types of biryani require cooking time, they have different methods of preparation. Hyderabadi biryani is prepared by simmering the rice over an open flame until it becomes fragrant, while Sindhi biryani is usually cooked in a pressure cooker.\n\n3. Meat Content: Hyderabadi biryani includes lamb, while Sindhi biryani often features mutton or chicken. This difference in meat content affects the overall flavor profile and nutritional value of each dish.\n\n4. Texture: Both types of biryani are made from rice, but their textures may vary slightly. Hyderabadi biryani tends to be thicker and more robust due to its use of basmati rice, whereas Sindhi biryani might be thinner and more delicate.\n\n5. Serving: The serving methods for both types of biryani are similar, though there are slight differences in how they are prepared. Hyderabadi biryani is traditionally served with flatbread, while Sindhi biryani is often enjoyed with naan or roti.\n\n6. Regional Variations: While these differences exist across all three sources, they are particularly pronounced in the regions mentioned - Hyderabad, Thalassery, and Sindhi states in Pakistan.\n\nIn summary, while both types of biryani share some similarities in terms of their origins and basic ingredients, they differ significantly in terms of spice blend, preparation time, meat content, texture, and serving methods.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -279,7 +279,7 @@
                 },
                 {
                     "doc_id": "004",
-                    "text": "There are occasional differences in Sindhi dialects for instance Hyderabadi Sindhi will refer to an egg as 'bedo' however Sindhis from other parts will refer to it as 'aano'."
+                    "text": "Biryani is a commonly served dish in Pakistan, and has many varieties, such as Lahori and Sindhi biryani . Tahiri, which is a vegetarian form of biryani, is also popular. All of the main dishes (except those made with rice) are eaten alongside bread . Pickles made out of mangoes , carrots , lemon , and other fruits and vegetables are also commonly used to further spice up the food."
                 }
             ],
             "config": {

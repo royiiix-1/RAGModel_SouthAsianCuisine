@@ -5,9 +5,5 @@ venv/
 env/
 .env
 
-data/indices/*.bin
-data/raw/*.json
-data/chunked/
-
 .DS_Store
 Thumbs.db

@@ -3,7 +3,7 @@
         {
             "query_id": "SA_001",
             "query": "What are the main spices used in Hyderabadi Dum Biryani?",
-            "response": "Based on the information provided in the sources, the main spices used in Hyderabadi Dum Biryani include:\n\n- Garam Masala\n- Turmeric\n- Cumin\n- Coriander\n- Cardamom\n- Cloves\n- Fennel Seeds\n- Black Pepper\n\nThese spices are commonly used in the preparation of Hyderabadi Dum Biryani, though the specific list may vary slightly depending on regional variations.",
+            "response": "Based on the information provided in the sources, the main spices used in Hyderabadi Dum Biryani include:\n\n- Cumin seeds\n- Coriander seeds\n- Cardamom pods\n- Turmeric powder\n- Fennel seeds\n- Cloves\n\nThese spices are commonly used in the preparation of Hyderabadi Dum Biryani, though the exact quantities may vary depending on regional preferences and dietary restrictions.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -23,7 +23,7 @@
                 },
                 {
                     "doc_id": "004",
-                    "text": "Haji biryani is a rice dish originating from a Dhaka restaurant of the same name. The dish consists of rice, goat meat and spices."
+                    "text": "Andhra Pradesh cuisine is hotly-spiced and often vegetarian, with seafood prominent along the coast; Kerala too has a range of seafood dishes from its coastline. The cuisine of Tamil Nadu is similarly mainly vegetarian, but even hotter. In Telangana , Hyderabadi cuisine is somewhat milder but subtle and full of flavour, making use of saffron, nuts, and dried fruits as well as warmer spices in dishes for the Nizams , the former rulers. A staple of Karnataka cuisine is jolada rotti , a flat unleavened bread made of sorghum flour. It is eaten with pulse curries, ennegayi (stuffed aubergine ) and chutneys. The cuisine of Lakshadweep is based on coconut, fish, and starches; a range of dishes employ oconut milk"
                 }
             ],
             "config": {
@@ -163,7 +163,7 @@
         {
             "query_id": "SA_006",
             "query": "What is Ema Datshi and what are its main ingredients?",
-            "response": "Based on the information provided:\n\nEma Datshi is a type of Indian flatbread commonly found in Maharashtra. Its main ingredients include:\n\n1. Black gram flour\n2. Rice flour\n3. Lentil flour\n\nThese are the primary components used to make Ema Datshi, which is a staple food item in the state of Maharashtra.",
+            "response": "Ema Datshi is a dish from the state of Gujarat, India. Its main ingredients include:\n\n1. Dahi - Yogurt\n2. Chopped onions and coriander\n3. Sev (small dried yellow salty noodles)\n4. Chaat masala - A spice mix typically consisting of amchoor (dried mango powder), cumin, kala namak (rock salt), coriander, dried ginger, salt, black pepper, and red pepper\n\nThese ingredients are combined and served on a small metal plate or a banana leaf, dried and formed into a bowl.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -171,19 +171,19 @@
                 },
                 {
                     "doc_id": "001",
-                    "text": "Maharashtrian lacto-vegetarian dishes are based on five main classes of ingredients that include grains, legumes, vegetables, dairy products and spices."
+                    "text": "There are also ingredients in the cuisine that require an acquired taste, such as hawaijaar (fermented soya bean, somewhat similar to the Japanese nattō ), soibum (fermented bamboo shoot), ngaa-ri (fermented fish), and hentak (fermented fish powder and herbs)."
                 },
                 {
                     "doc_id": "002",
-                    "text": "Papadam (also papadum, poppadom, papar, and appalam) is an Indian and Sri Lankan flatbread.  Typically, it is prepared using black gram bean flour, rice flour, or lentil flour with salt and peanut oil added. The ingredients are made into a dough and formed into a thin, round shape similar to a tortilla. As the dough is prepared, the papadam can be seasoned with a variety of different ingredients such as chilies, cumin, garlic, black pepper, or other spices."
+                    "text": ". One of the most important ingredients in Meitei cooking is Ngari (fermented fish). Roasted ngari is used in the singju (a kind of salad), morok metpa (chilli chutney), eromba (boiled and mashed veggies with chillies). A variety of fermented bamboo shoots (soibum) as well as fresh bamboo shoots (Ushoi/Shoidon), and fermented soya beans (hawaijaar) also form an important part of Meitei cuisines. All meals are served with some fresh aromatic herbs on the side."
                 },
                 {
                     "doc_id": "003",
-                    "text": "Staples include homemade khichdi ( rice and lentils or rice and mung beans ), chaas ( buttermilk ), and pickles as side. Main dishes are based on steam cooked vegetables with different spices and dals that are added to a vaghar , which is a mixture of spices heated in oil that varies depending on the main ingredients. Salt , sugar , lemon , lime , and tomatoes are used frequently to prevent dehydration in an area where temperatures reach 50 °C (122 °F) in the shade. It is common to add a little sugar or jaggery to some of the vegetable dishes and dal , which adds sweetness to the often savory and spicy dishes."
+                    "text": "Papadam (also papadum, poppadom, papar, and appalam) is an Indian and Sri Lankan flatbread.  Typically, it is prepared using black gram bean flour, rice flour, or lentil flour with salt and peanut oil added. The ingredients are made into a dough and formed into a thin, round shape similar to a tortilla. As the dough is prepared, the papadam can be seasoned with a variety of different ingredients such as chilies, cumin, garlic, black pepper, or other spices."
                 },
                 {
                     "doc_id": "004",
-                    "text": "Depending on region, religion and caste, Maharashtrian food can be mild to extremely spicy. Common spices include asafoetida , turmeric , mustard seeds , coriander , cumin , dried bay leaves , and chili powder . Ingredients used especially for kala or black masala spice blend include cinnamon , cloves , black pepper, cardamom and nutmeg . Other spice blends popular in the cuisine include goda masala and Kolhapuri masala. Common herbs to impart flavor or to garnish a dish include curry leaves and coriander leaves. Many common curry recipes call for garlic , onion , ginger and green chilli pepper. Ingredients that impart sour flavor to the food include yoghurt, tomatoes , tamarind paste, lemon, and amsul skin. or unripe mangoes."
+                    "text": "Staples include homemade khichdi ( rice and lentils or rice and mung beans ), chaas ( buttermilk ), and pickles as side. Main dishes are based on steam cooked vegetables with different spices and dals that are added to a vaghar , which is a mixture of spices heated in oil that varies depending on the main ingredients. Salt , sugar , lemon , lime , and tomatoes are used frequently to prevent dehydration in an area where temperatures reach 50 °C (122 °F) in the shade. It is common to add a little sugar or jaggery to some of the vegetable dishes and dal , which adds sweetness to the often savory and spicy dishes."
                 }
             ],
             "config": {
