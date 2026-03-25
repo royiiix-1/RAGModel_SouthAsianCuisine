@@ -1,0 +1,314 @@
+{
+    "results": [
+        {
+            "query_id": "SA_001",
+            "query": "What are the main spices used in Hyderabadi Dum Biryani?",
+            "response": "The main spices used in Hyderabadi Dum Biryani are:\n\n- Cardamom\n- Cinnamon\n- Cloves\n- Nutmeg\n- Mace\n- Star Anise\n- Black Pepper\n\nThese spices are widely used in the preparation of this popular dish.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Hyderabadi biryani is a popular variety of biryani. It is so named as it is seen mainly in the city of Hyderabad, India, where the dish emerged from the blending of mughlai and Andhra cuisines in the kitchen of the Nizam (leader of the historical Hyderabad state). It, like other biryanis, is made using Basmati rice which is only found on the Indian subcontinent. The spices and other ingredients remain the same, but the method of preparation involves more time."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Other spices used in Bhojpuri cuisine include:"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Hyderabadi biryani and palaav , or \"Andhra biryani\", are popular dishes within the region. Royyala palav , made with shrimp, is considered a delicacy in coastal Andhra Pradesh. Mutton biryani and mixed biryani (chicken, mutton, and shrimp) are other popular biryani dishes, generally available in restaurants. There are many local variations as well, such as kaaja biryani , kunda biryani (pot biryani), avakaya biryani , ulavacharu biryani , and panasa biryani ."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Hyderabadi biryani and palaav , or \"Andhra biryani\", are popular dishes within the region. Royyala palav , made with shrimp, is considered a delicacy in coastal Andhra Pradesh. Mutton biryani and mixed biryani (chicken, mutton, and shrimp) are other popular biryani dishes, generally available in restaurants. There are many local variations as well, such as kaaja biryani , kunda biryani (pot biryani), avakaya biryani , ulavacharu biryani , and panasa biryani ."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Pakistani dishes are known for being aromatic. Some dishes contain liberal amounts of oil, contributing to a richer, fuller mouthfeel and flavour. Brown cardamom , green cardamom , cinnamon , cloves , nutmeg , mace , star anise and black pepper are the most commonly used spices in the making of a wide variety of dishes throughout Pakistan. Cumin seeds , chili powder , turmeric , and bay leaves are also very popular. In the Punjab province, spice blends are characterized by their use of coriander powder. Garam masala (a mixture of aromatic spices) is a popular blend of spices used in several Pakistani dishes including Bannu Pulao ."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_002",
+            "query": "How is naan traditionally cooked?",
+            "response": "Naan is traditionally cooked in a tandoor, which is an open hearth oven. The source states that \"Naan ( / n ɑː n / ) is a leavened, oven-baked or tawa -fried flatbread.\"",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Naan is a round flatbread made with white flour and is a staple accompaniment to hot meals in central and southern Asia."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Once baked, naan is coated with ghee or butter and served warm. This soft and pliable bread accompanies meals, replacing utensils for scooping up sauces, stews, and curries, or with dryer dishes like tandoori chicken."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Naan ( / n ɑː n / ) is a leavened , oven-baked or tawa -fried flatbread , that can also be baked in a tandoor . It is characterised by a light and fluffy texture and golden-brown spots from the baking process. Naan is used in many cuisines worldwide."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Naan – In Urdu , the national language of Pakistan, the word naan means 'bread'. Unlike chapatis, naans are slightly thicker, typically leavened with yeast and mainly made with white flour. Some varieties like roghani and Peshwari naan may also be sprinkled with sesame seeds . Naans are seldom, if ever, made at home since they require tandoor-based cooking and preparatory work. Numerous varieties of plain and stuffed naans are available throughout Pakistan and each region or city can have its own specialty. Naan is a versatile bread and is eaten with almost anything. For instance, 'saada naan' or 'plain naan' is often served with siri-payay (cow's head and trotters) or nihari (slow-cooked beef stew) for breakfast in many parts of the country."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "In Indonesia , naan is a popular alternative to rice among the Indians , Arabs , Malays , Acehnese and the Minangkabaus , similar though not the same as roti or roti canai which was introduced from Tamils . This dish is known as roti naan or roti nan, and is cooked using Indonesian spices such as garlic."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_003",
+            "query": "What is the main staple food in Bangladeshi cuisine?",
+            "response": "The main staple food in Bangladeshi cuisine is rice. This can be seen from the information provided in Sources 1 through 5, where it states that \"Main breads are naan, porota, roti, bakarkhani and luchi.\" Additionally, Sources 2 and 3 both mention that \"Fish is a staple in Bangladeshi cuisine, especially freshwater fish,\" further confirming this as the primary food item.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Bangladeshi dishes exhibit strong aromatic flavours; and often include eggs , potatoes , tomatoes and aubergines . A variety of spices and herbs , along with mustard oil and ghee , is used in Bangladeshi cooking. The main breads are naan , porota , roti , bakarkhani and luchi . Dal is the second most important staple food which is served with rice/porota/luchi. Fish is a staple in Bangladeshi cuisine, especially freshwater fish , which is a distinctive feature of the country's gastronomy. Major fish dishes include ilish ( hilsa ) , pabda ( butterfish ), rui ( rohu ), pangash ( pangas catfish ), chitol ( clown knifefish ), magur ( walking catfish ), bhetki ( barramundi ) and tilapia . Meat consumption includes beef , goat , chicken , duck , and koel"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Bangladeshi cuisine is dominated by Bengali cuisine and has been shaped by the diverse history and riverine geography of Bangladesh . The country has a tropical monsoon climate . Rice is the main staple food of Bangladeshi people and it is served with a wide range of curries ."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Bangladeshi cuisine has been shaped by the region's history and riverine geography . Bangladesh has a tropical monsoon climate . The staple foods of Bangladesh are rice and fish. The majority of Bangladeshi people are ethnic Bengali , with a minority of non-Bengalis, many of whom are used to cuisines from different traditions and regions."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Bengali cuisine is the culinary style of Bengal , comprising now most of Bangladesh and parts of India (i.e., West Bengal and Barak Valley ). The cuisine has been shaped by the region's diverse history and climate. It is known for its varied use of flavours including mustard oil , as well as the spread of its confectioneries and desserts. There is a strong emphasis on rice as a staple, with fish traditionally the most common protein. Freshwater fish are preferred to marine fish, although barramundi , known as bhetki , is also common. Meat is also a common protein among Bengalis, with chicken and mutton being the most popular. Beef is popular within the Muslim community.However meat from any sources is consumed far less than fish in Bangladesh"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Rice is the staple food of Bangladesh, while fish is the most common source of protein in Bangladesh. There are 250 plant-based ingredients in Bangladeshi cooking. The use of mustard oil was the traditional edible oil before soybean oil was introduced."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_004",
+            "query": "What is dal-bhat-tarkari?",
+            "response": "Dal-bhat-tarkari is a traditional Nepalese dish that consists of a soup made of lentils, spices, bhat (rice), and a vegetable curry. It is typically eaten twice daily by the Khas people, though with limited availability of rice paddies due to land scarcity. The dish combines lentils, bhat, and vegetables like spinach, fresh greens, and other items like maize, buckwheat, barley, and millet.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Nepali cuisine comprises a variety of cuisines based upon ethnicity , alluvial soil and climate relating to cultural diversity and geography of Nepal and neighboring regions of Sikkim and Gorkhaland . Dal-bhat-tarkari ( Nepali : दाल भात तरकारी ) is eaten throughout Nepal. Dal is a soup made of lentils and spices, bhat — usually rice but sometimes another grain — and a vegetable curry, tarkari . Condiments are usually small amounts of spicy pickle ( achaar , अचार) which can be fresh or fermented, mainly of dried mustard greens (called gundruk ko achar ) and radish ( mula ko achar ) and of which there are many varieties"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Dal-bhat-tarkari is the standard meal eaten twice daily traditionally by the Khas people. However, with land suitable for irrigated rice paddies in short supply, other grains supplement or even dominate. Wheat becomes unleavened flat bread ( roti or chapati ). Maize ( makai ), buckwheat ( fapar ), barley ( jau ), or millet ( kodo ) become porridge -like ( dhido or ato ). Tarkari can be spinach and fresh greens ( sag ), fermented and dried greens ( gundruk or sinki ), white radish ( mula ), potatoes ( alu ), green beans ( simi ), tomatoes ( golbeda ), cauliflower ( kauli ), cabbage ( bandakopi ), pumpkin ( farsi ), etc. The climate of the hilly region remains moderate throughout the year. This kind of climate is perfect for horticulture"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Dal is frequently eaten with flatbreads , such as rotis or chapatis , or with rice. The latter combination is called dal bhat in Nepali , Gujarati , and various other Indian languages. In addition, certain types of dal are fried, salted, and eaten as a dry snack, and a variety of savory snacks are made by frying a paste made from soaked and ground dals in different combinations, to which other ingredients, such as spices and nuts (commonly cashews ) may be added."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Rajasthani Panchratna Dal : This is a special lentil preparation which involves combination of five different kinds of lentils viz. toor dal , urad dal , moong dal , chana dal and moth dal . It is served along with Baati bread and churma and combo is called Dal Baati Churma .\n- Dal Dhokli : This is a common dish for Rajasthani and Gujarati cuisine . Dal is cooked with small wheat dough pasta pieces. It is also known as Dal Pithouri .\n- Dal Baakla : Baakla or Sukhi Dal refers to dry gravy-less preparations. Sukhi Moong (Mogar ro saag), Sukhi Moth (Mothan ro saag), Sukhi Urad dal are commonly used for preparing Baakla . The word Baakla is derived from Sanskrit word Vāṣkala ."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "This is a variety of dal, the common staple food of South Asia made with dal forming a stew or thick soup. Dal is the name for split legumes in many South Asian languages (see dal page). Khatti translates as sour from Hindi, and comes from the use of tamarind, a very sour fruit on its own. Serve with any variety of roti (a round flat bread) or over rice and with a vegetable preparation on the side and an achar (pickle) or chutney as condiments. The roti is used to scoop up the dal and grab pieces of the vegetable."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_005",
+            "query": "What ingredients form the base of traditional Maldivian cuisine?",
+            "response": "Based on the information provided, the traditional ingredients that form the base of Maldivian cuisine include:\n\n1. Coconuts\n2. Fish\n3. Starches\n\nThese three main elements are mentioned in all four sources listed above.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Maldivian cuisine, also called Dhivehi cuisine, is the cuisine of the Nation of Maldives and of Minicoy , India . The traditional cuisine of Maldivians is based on three main items and their derivatives: coconuts, fish and starches."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Maldivian cuisine , also called Dhivehi cuisine , is the cuisine of the Maldives and Minicoy , Lakshadweep , India . The traditional cuisine of Maldivians and Lakshadweep is based on three main items and their derivatives: coconuts , fish , and starches."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The fish of choice is mostly skipjack tuna ( kaṇḍumas ), either dried or fresh. Other similar fish species that are part of the average Maldivian diet are little tunny ( laṭṭi ), yellowfin tuna ( kanneli ), frigate tuna ( raagondi ), bigeye scad ( mushimas ), wahoo ( kurumas ), mahi-mahi ( fiyala ), bluefin jack (handi) , and mackerel scad (rimmas) . These can be eaten boiled or processed."
+                },
+                {
+                    "doc_id": "003",
+                    "text": ". However, upon this a cook can add many other ingredients depending on preference and availability, including boiled taro or breadfruit, grated coconut, lime, chillies, onions or curry leaves. I can see why this dish is still eaten daily by Maldivians: it’s incredibly quick and easy to prepare, delicious, filling and healthy. However, if you had more time and patience on your hands, you could continue the boiling process of the fish broth until achieving a thick brown paste, called rihaakuru. This is a prized ingredient in Maldivian cuisine, and was also introduced to Sri Lanka, where it now features in many dishes. It can be eaten along with other aforementioned staples (rice, roshi, taro, breadfruit) as well as cooked with spiced and/or coconut to create new flavour combinations"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The tuna-based thick brown paste known as rihaakuru is also an essential item in Maldivian cuisine."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_006",
+            "query": "What is Ema Datshi and what are its main ingredients?",
+            "response": "Based on the information provided:\n\nEma Datshi is a popular Indian snack that originated in Udupi, Karnataka. Its main ingredients include:\n\n1. **Idli Batter**: This is the primary ingredient used to make the dosa.\n2. **Sooji Dough**: Another key component, often referred to as \"sooji\" in some regions.\n3. **Chili Powder**: A traditional spice blend commonly added during preparation.\n4. **Coriander Leaves**: Used for garnishing and flavoring.\n5. **Onion**: Often used in the filling.\n6. **Pepper**: Added for taste.\n7. **Mango Pickle**: A condiment.\n8. **Red Chillies**: For heat and flavor.\n9. **Salt**: To season the dosa.\n10. **Dumplings**: Made by rolling up the batter into balls.\n11. **Ajadinas**: Dry curries or stir-fry curries.\n12. **Chutneys**: Including one made of the skin of the ridge gourd.\n\nThese ingredients combine to create a savory, flavorful, and popular Indian snack.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "- Andhra dosa, a rice- and urad dal-based crepe eaten with chutney and sambar\n  - Minapattu, a rice- and lentil-based crepe, served with chutney and sambar\n  - Pesarattu , a green gram -based crepe. It is usually served with ginger chutney. Sometimes pesarattu is filled with upma , in which case it is known as upma pesarattu .\n  - Dibba attu , a deep-fried dosa made with idli batter\n  - Atukula dosa , a dosa made from atukulu , also known as poha .\n  - Rava dosa or suji dosa , a dosa made with sooji dough with chili, coriander leaves, onion, and pepper."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "- Andhra dosa, a rice- and urad dal-based crepe eaten with chutney and sambar\n  - Minapattu, a rice- and lentil-based crepe, served with chutney and sambar\n  - Pesarattu , a green gram -based crepe. It is usually served with ginger chutney. Sometimes pesarattu is filled with upma , in which case it is known as upma pesarattu .\n  - Dibba attu , a deep-fried dosa made with idli batter\n  - Atukula dosa , a dosa made from atukulu , also known as poha .\n  - Rava dosa or suji dosa , a dosa made with sooji dough with chili, coriander leaves, onion, and pepper."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The ubiquitous Indian dish dosa has its origins in Udupi, according to P. Thankappan Nair . Saaru, a spicy pepper water, is another essential part of the menu, and so are jackfruit , colocasia leaves, raw green bananas, mango pickle , red chillies, and salt. Adyes (dumplings), ajadinas (dry curries or stir fry curries), and chutneys , including one made of the skin of the ridge gourd , are specialities."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Idli – Rice Idli, Rava Idli\n- Vada – Uddina Vada, Rava Vada, Masala Vada, Maddur Vada\n- Dosa - Masala Dosa, Set Dosa, Rava Dosa\n- Upma , Kesaribhath\n- Puliyogare\n- Pongal\n- Vangibath\n- Vegetable Bonda\n- Chaat\n- Poori"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "There are common elements among these variants including dahi , or yogurt; chopped onions and coriander ; sev (small dried yellow salty noodles ); and chaat masala , a spice mix typically consisting of amchoor (dried mango powder), cumin , kala namak (rock salt), coriander , dried ginger , salt, black pepper , and red pepper . The ingredients are combined and served on a small metal plate or a banana leaf, dried and formed into a bowl."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_007",
+            "query": "How has Mughal influence shaped Pakistani cuisine?",
+            "response": "Mughal influence has significantly shaped Pakistani cuisine in several ways:\n\n1. **Geographical Influence**: Mughal rule had a profound impact on Pakistan's geography, influencing its layout and climate. This led to the development of diverse culinary traditions across different parts of the country.\n\n2. **Cuisine Inheritance**: Mughal cuisine, especially the Mughlai dish \"Kabuli Masala,\" has been heavily influenced by the Mughal legacy. It incorporates elements from both Indian and Central Asian cuisines, reflecting the empire's geographical reach.\n\n3. **Historical Influences**: The Mughals played a crucial role in shaping the history and culture of Pakistan. Their rule brought about changes in social structures, customs, and even religious practices, which have been reflected in Pakistani cuisine.\n\n4. **Diverse Cultural Groups**: Pakistan's cuisine reflects the diverse cultural groups present in the country, including those from North India, South India, and Central Asia. Each group brings unique flavors and ingredients to the table.\n\n5. **Seasonality and Seasonal Recipes**: The Mughal period saw the introduction of seasonal cooking techniques and recipes that were adapted for the changing seasons. This has resulted in a rich array of dishes that reflect the region's natural resources and climate.\n\n6. **Meat Consumption**: The Mughal era marked a shift towards vegetarianism and meat consumption, which has been reflected in Pakistani cuisine. However, this change is not uniform across all regions; it varies based on regional preferences and cultural norms.\n\n7. **Dietary Laws**: The emphasis on Islamic dietary laws has influenced Pakistani cuisine, leading to stricter adherence to certain foods like pork and alcohol consumption. This has created a balance between traditional and modern aspects of the cuisine.\n\nIn summary, Mughal influence has been pervasive throughout Pakistani cuisine, influencing everything from the geographical landscape to the dietary habits and cooking methods.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Other Pakistani cuisine include:"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Pakistani cuisine ( Urdu : پاکستانی پکوان ) is part of the greater South Asian with significant influence from West Asian cuisines and Central Asian cuisines due to its geographic location and influence. As a result of Mughal legacy, Pakistan also mutually inherited many recipes and dishes from that era alongside India."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Pakistani cuisine is influenced by neighbouring Indian cuisine and Central Asia, as well as having historical influences from the Mughal Empire, ruled from the 1500s by a Muslim dynasty. There is great diversity across the varied cultural groups and regions of Pakistan, particularly along the east-west axis, with the eastern part of the country favouring strongly seasoned and spicy food, similar to their Indian neighbours, whereas the western part favours milder recipes that resemble their Central Asian neighbours. One thing seems to unite many Pakistanis however: the average citizen eats many times more meat than their neighbours. The Indus valley, which runs through Pakistan, was one of the early cradles of civilisation due to its climatic conditions and fertile earth"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "North Indian cuisine has some Central Asian influences introduced during Mughal Empire as compared to its southern or eastern counterparts in the subcontinent."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The arrival of Islam through trade and conquests by various Arab , Turkic , Persian , and Afghan dynasties influenced the local cuisine of the region to a great degree. Due to its Muslim-majority population, Pakistan's cuisine sees a strict observance of Islamic dietary laws . Most prominently, forbiddance on the consumption of pork and alcohol by Islamic regulation has shifted the focus of Pakistani cuisine to other types of meat, such as beef , lamb , chicken , and fish , alongside a variety of fruits , vegetables , and dairy ."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_008",
+            "query": "What type of rice is commonly used in Afghan Kabuli palaw?",
+            "response": "Based on the information provided in the sources, the type of rice commonly used in Afghan Kabuli palaw is rice. Specifically, it states:\n\n\"Kabuli palaw – an Afghan dish, common in Pashtun-dominated regions in Pakistan such as the Tribal Areas, FATA, Khyber Pakhtunkhwa province in North-West Pakistan, and Balochistan in South-West Pakistan. It is a variety of pilaf, consisting of steamed rice mixed with raisins, carrots, and lamb.\"\n\nSo, the answer to the question \"What type of rice is commonly used in Afghan Kabuli palaw?\" is rice.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "- Shomleh or shlombeh , also known as triwai in Kabul (a drink made by mixing yogurt with water and shaking it extensively before adding optional dried mint leaves and a small amount of salt)\n- Fried fish with kachumar raita (diced onion, tomatoes, cucumbers in masteh or dahi ) and naan\n- Ghatay rujay or ghatay wrejay (literally \"fat rice\"; a rice dish resembling risotto prepared in Charsadda, Mardan, Pirpiai, and other villages of the region where short-grain brown rice is grown)\n- Kabuli palaw\n- Kaddo borwani ( sweet pumpkins )\n- Kichrei (sticky rice with mung beans and onions topped with melted qurot sauce, mostly eaten during winter)\n- Londei, also known as tarshay (lamb or beef jerky cooked with rice)\n- Pakora , also known as pikora\n- Paratha"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "- Bannu pulao – A classic dish from Khyber Pakhtunkhwa that combines beef, spices, and rice. The beef is slow-cooked with bones for a rich, flavorful taste, while the rice is prepared separately with ghee and aromatic spices.\n- Chana pulao – Pulao with chickpeas; a commonly served vegetarian pulao in Punjab.\n- Matar pulao – Pulao made with peas.\n- Murgh pulao – Chicken and stock added. Creates a brown rice.\n- Yakhni pulao – Meat and stock added. Creates a brown rice.\n- Kabuli palaw – an Afghan dish, common in Pashtun -dominated regions in Pakistan such as the Tribal Areas, FATA , Khyber Pakhtunkhwa province in North-West Pakistan, and Balochistan in South-West Pakistan. It is a variety of pilaf, consisting of steamed rice mixed with raisins, carrots, and lamb."
+                },
+                {
+                    "doc_id": "002",
+                    "text": ". Rice is also critical to the culture, and several different types of rice-based dish are expected to be served at large family celebrations. If you lived in Afghanistan and were expecting a small number of guests in your home, you might lay out a dastarkhan, which is a collection of dishes arranged on a tablecloth on the floor, commonly involving a tea-pouring ritual. It is considered the height of rudeness to step on or over the dastarkhan, and it is expected that the best dishes be placed near the guests. Although I don’t include drinks in my project, tea is crucially important in Afghani culture, including green, black or milk varieties, often flavoured with sugar or cardamom"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Kabuli pulao is a dish from northern Afghanistan, often considered to be the national Afghan dish. The meal is thought to be named after Kabul, the capital of Afghanistan, or perhaps a derivation of a word meaning “excellent”, and pulao is a general term for a rice dish that is parboiled then steamed with other ingredients, creating a crust on its bottom. In Kabuli pulao, these other ingredients are traditionally raisins, onion, garlic, carrots, almonds, pistachios, lamb, and a spiced syrup, which is infused through the rice, made with sugar, lamb stock, garam masala and cardamom"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The culinary traditions of Khyber Pakhtunkhwa are deeply rooted in Pashtun or Afghan culture and are heavily influenced by Iranic culinary traditions. Pashtun cuisine is characterized by a preference for rice-based dishes, kebabs, and lamb. Prominent dishes include Kabuli palaw , a flavorful rice dish with meat, carrots, and dried fruits; bannu pulao , a beef and stock-based rice dish; chapli kabab , a spiced and crispy minced meat patty; tika, marinated and grilled meat skewers; and mutton karahi, a savory, rich stew. Local variations such as Peshawari cuisine further showcase the diverse culinary practices of the region. Like Balochi cuisine, Pashtun cuisine is traditionally non-spicy. In recent years, rosh has taken traction with locals who enjoy the Balochi dish."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_009",
+            "query": "How does Sindhi biryani differ from Hyderabadi biryani?",
+            "response": "Sindhi biryani differs from Hyderabadi biryani in that it uses Basmati rice instead of basmati rice. This is evident from the following statement in Source 2:\n\n\"Sindhi Biryani : is a special meat and rice biryani, the most popular dish in Sindh and Pakistan.\"\n\nThis indicates that Sindhi biryani is prepared using Basmati rice, while Hyderabadi biryani is traditionally made with basmati rice.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "- Hyderabad Biryani\n- Thalassery Biryani\n- Sindhi Biryani"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Hyderabadi biryani is a popular variety of biryani. It is so named as it is seen mainly in the city of Hyderabad, India, where the dish emerged from the blending of mughlai and Andhra cuisines in the kitchen of the Nizam (leader of the historical Hyderabad state). It, like other biryanis, is made using Basmati rice which is only found on the Indian subcontinent. The spices and other ingredients remain the same, but the method of preparation involves more time."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "- Sindhi Biryani : is a special meat and rice biryani, the most popular dish in Sindh and Pakistan.\n- Sindhi Pulhao Bhat : It is Sindhi style Pilaf , it made in mutton, beef, chicken or only in potatoes or chana/chhola, it is less heavy with masalas than Sindhi Biryani.\n- Taryal Patata: also called Took Aloo, a staple of Sindhi diet, is a form of thinly sliced, pan fried or deep fried potatoes with local spices. They are consumed in most rural households typically at dinner but can be consumed even for breakfast and lunch alongside other meals. One popular Sindhi way of having \"patatas\" is to eat it with plain white rice with daal to accompany it."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Hyderabadi biryani and palaav , or \"Andhra biryani\", are popular dishes within the region. Royyala palav , made with shrimp, is considered a delicacy in coastal Andhra Pradesh. Mutton biryani and mixed biryani (chicken, mutton, and shrimp) are other popular biryani dishes, generally available in restaurants. There are many local variations as well, such as kaaja biryani , kunda biryani (pot biryani), avakaya biryani , ulavacharu biryani , and panasa biryani ."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Hyderabadi biryani and palaav , or \"Andhra biryani\", are popular dishes within the region. Royyala palav , made with shrimp, is considered a delicacy in coastal Andhra Pradesh. Mutton biryani and mixed biryani (chicken, mutton, and shrimp) are other popular biryani dishes, generally available in restaurants. There are many local variations as well, such as kaaja biryani , kunda biryani (pot biryani), avakaya biryani , ulavacharu biryani , and panasa biryani ."
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        },
+        {
+            "query_id": "SA_010",
+            "query": "How does Sri Lankan rice and curry differ from a North Indian thali?",
+            "response": "Sri Lankan rice and curry differ significantly from a North Indian thali in several ways:\n\n1. Main Ingredient: Sri Lankan rice is primarily made from white rice, while North Indian thali typically includes a variety of rice like basmati, jasmine, or long-grain rice.\n\n2. Curry Type: Sri Lankan curries are generally made with meat or fish, while North Indian thalis often serve vegetarian curries.\n\n3. Vegetables: Sri Lankan curries usually consist of vegetables like potatoes, onions, and tomatoes, whereas North Indian thalis frequently incorporate lemongrass, turmeric, and other spices.\n\n4. Meat or Fish: Sri Lankan curries use meat or fish as the main protein source, while North Indian thalis often serve vegetarian curries.\n\n5. Seasonings: Sri Lankan curries are often seasoned with a combination of spices like cumin, coriander, and garam masala, while North Indian thalis typically use less spice.\n\n6. Serving: Sri Lankan thalis are traditionally served with breads like puris or chapatis, while North Indian thalis are often served with rice and other carbohydrates.\n\n7. Bread: Sri Lankan thalis begin with different types of breads like puris or chapatis, while North Indian thalis start with rice-based dishes.\n\n8. Beverages: Sri Lankan thalis are served with beverages like coconut water, while North Indian thalis are often served with tea.\n\n9. Food Preparation: Sri Lankan curries are prepared using traditional methods, while North Indian thalis are often prepared quickly and in a communal setting.\n\nThese differences reflect the distinct culinary traditions and cultural influences of Sri Lanka and North India, resulting in unique flavors and preparations in their respective cuisines.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The central feature of Sri Lankan cuisine is boiled or steamed rice, served with a curry of fish or meat , along with other curries made with vegetables , lentils , or fruits ."
+                },
+                {
+                    "doc_id": "001",
+                    "text": ". Depending on the restaurant or the region, the thali consists of delicacies native to that region. In general, a thali begins with different types of breads such as puris or chapatis (rotis) and different vegetarian specialities ( curries ). However, in South India and Southeast Asia, rice is the only staple served with bhojanams. Thalis or Bhojanams are sometimes referred to by the regional characteristic of the dishes they contain. For example, one may encounter Andhra bhojanam, Nepalese thali, Rajasthani thali, Gujarati thali, Maharashtrian thali, Manipuri chakluk , Tamil unavu and Thai unavu. In many parts of South Asia , Southeast Asia and the Caribbean , the bread and the rice portions are not served together in the thali"
+                },
+                {
+                    "doc_id": "002",
+                    "text": ". Sri Lanka is also a consumer of many varieties of red rice, some of which are considered heirloom rices in the country. Tea is also an important beverage throughout the country, and Sri Lanka is known for producing some of the world's finest tea."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "There are many iterations of this meal across Southern India, all comprising a banquet of (usually vegetarian) curries served together with carbohydrates such as rice, dosa and papadums. Not wanting to appear to favour any particular region, I have listed two names for these types of banquets (although there are many more), and incorporated aspects of each into mine. “Thali” means “plate”, and is particularly popular in Tamil Nadu, where it is offered by canteens for lunch. If you are very lucky, you might even wind up in an establishment serving unlimited thali, the generosity of which is indicative of the deep belief that serving food to others is a noble act for humanity"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "I grouped Sri Lanka and The Maldives together because both are, to varying degrees, lost in the great expanse of the Indian Ocean, and their cuisines have influenced each other, as well as having been influenced by similar external forces, over the centuries. Sri Lanka has taken cues from the cuisines of neighbouring Southern India, as well as various migrants/invaders over the years, notably Indonesia, Malaysia, China, Britain, The Netherlands and Portugal. The standout flavours/ingredients that pervade Sri Lankan cooking include fresh fish, often in curries, steaming white rice, flatbreads, dals, fresh coconut and coconut milk, lime, chillies (often flavouring various “sambols”; describing all sorts of spicy pastes/dips/accompaniments) dried Maldive fish and curry leaves"
+                }
+            ],
+            "experiment_config": {
+                "chunking_strategy": "800-char Flat",
+                "prompt_strategy": "baseline"
+            }
+        }
+    ]
+}

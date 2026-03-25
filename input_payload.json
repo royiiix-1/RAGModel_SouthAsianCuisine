@@ -1,0 +1,44 @@
+{
+    "queries": [
+        {
+            "query_id": "SA_001",
+            "query": "What are the main spices used in Hyderabadi Dum Biryani?"
+        },
+        {
+            "query_id": "SA_002",
+            "query": "How is naan traditionally cooked?"
+        },
+        {
+            "query_id": "SA_003",
+            "query": "What is the main staple food in Bangladeshi cuisine?"
+        },
+        {
+            "query_id": "SA_004",
+            "query": "What is dal-bhat-tarkari?"
+        },
+        {
+            "query_id": "SA_005",
+            "query": "What ingredients form the base of traditional Maldivian cuisine?"
+        },
+        {
+            "query_id": "SA_006",
+            "query": "What is Ema Datshi and what are its main ingredients?"
+        },
+        {
+            "query_id": "SA_007",
+            "query": "How has Mughal influence shaped Pakistani cuisine?"
+        },
+        {
+            "query_id": "SA_008",
+            "query": "What type of rice is commonly used in Afghan Kabuli palaw?"
+        },
+        {
+            "query_id": "SA_009",
+            "query": "How does Sindhi biryani differ from Hyderabadi biryani?"
+        },
+        {
+            "query_id": "SA_010",
+            "query": "How does Sri Lankan rice and curry differ from a North Indian thali?"
+        }
+    ]
+}
