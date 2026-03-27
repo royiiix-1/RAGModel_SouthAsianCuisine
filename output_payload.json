@@ -1,0 +1,409 @@
+{
+    "results": [
+        {
+            "query_id": "SA_001",
+            "query": "How would a food critic likely describe the main traits of Chicken tikka masala, saag paneer and saffron rice?",
+            "response": "A food critic might describe Chicken Tikka Masala, saag paneer, and saffron rice as follows:\n\n1. **Savory and Spicy**: Both Chicken Tikka Masala and saag paneer are known for their savory flavors, often featuring a blend of spices like cumin, coriander, turmeric, and cardamom. They are typically served with a creamy sauce made from yogurt and coconut milk, giving them a rich, slightly tangy taste.\n\n2. **Spice Level**: Chicken Tikka Masala is generally considered quite spicier than saag paneer. This spice level contributes to its distinctive heat profile, making it more robust and flavorful compared to the lighter, less spicy saag paneer.\n\n3. **Texture and Texture**: Chicken Tikka Masala is characterized by its crispy texture, while saag paneer is known for its soft, fluffy consistency. The texture of saffron rice is described as light and airy, with a slight sweetness due to the saffron.\n\n4. **Dietary Considerations**: While both Chicken Tikka Masala and saag paneer are popular dishes, they have different dietary considerations. Chicken Tikka Masala is generally vegetarian, whereas saag paneer is sometimes used in vegetarian recipes. Additionally, saffron rice is often used in vegetarian dishes, though it can be substituted with other vegetables if desired.\n\n5. **Flavor Profile**: The combination of these three ingredients creates a unique flavor profile that appeals to a wide range of palates. It offers a balance of savory, spicy, and sweet elements, creating a satisfying meal experience.\n\n6. **Versatility**: These dishes can be enjoyed individually or combined with various other dishes, such as naan bread, rice, or even desserts. Their versatility makes them suitable for a variety of occasions and cuisines.\n\nIn summary, a food critic would likely highlight the savory, spicy nature of Chicken Tikka Masala, the spiciness of saag paneer, and the light, airy texture of saffron rice, while noting their distinct characteristics and potential applications across different dishes.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Chicken tikka is a chicken dish originating in the Punjab region of the Indian Subcontinent made by baking chicken which has been marinated in spices and yoghurt. It should not be confused with Chicken Tikka Masala (of which it is an ingredient). It is traditionally cooked on skewers in a tandoor and is usually boneless. It is tasty when served with yellow rice and a spicy salad."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "- Add all of the ingredients except the chicken to a non-metallic mixing bowl, and mix well.\n- Add the chicken and mix until fully coated.\n- Ideally, the chicken should now be left in a refrigerator to marinate for at least 24 hours. It may not be safe to leave chicken which has previously been frozen for longer than 24 hours, but fresh chicken should be left to marinate for 48 hours for best results. If you do not wish to leave the chicken to marinate, simply continue to the next step.\n- For best results, place on skewers and cook in a tandoor or ceramic pot oven. The chicken can also be cooked on skewers under a medium grill for 5–8 minutes on each side or barbecued (cooking times depend on the temperature of the barbecue). Always ensure the chicken is cooked throughout before serving. It should come apart easily when pressed down with the side of a fork.\n- Serve with naan, with rice or use in a Chicken Tikka Masala."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The spices are ground to a fine powder in a coffee grinder or with a mortar and pestle. The masala is mixed with plain yogurt, and meat (usually chicken) is coated with the mixture, then slow-roasted in the tandoor. Chicken prepared in this fashion has a pink-coloured exterior and a savoury flavor."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Chicken Lahori\n- Gosht karahi (chicken or mutton cooked with a spicy tomato-based gravy in a concave-shaped cooking vessel that resembles a wok) is a speciality of Lahore.\n- Dal gosht (meat cooked with pulses )\n- Murgh Cholay/Channay (chicken cooked with chickpeas)\n- Murgh Musallam (chicken cooked with rice and dry fruits stuffed inside)\n- Seekh kababs (minced meat rolls)\n- Gol-gappe / pani-puri\n- Dahi bhallay (appetizers dipped in yoghurt)\n- Shawarma/Dhawarma Platter\n- Chicken tikka ( barbecue -style fried chicken pieces)\n- Biryani\n- Haleem\n- Falooda\n- Halwa Poori - a breakfast speciality of Lahore\n- Nihari\n- Samosa\n- Kheer\n- Paya (dish)\n- Lahori Fried Fish\n- Chargha (Lahori-style roast chicken)\n- Daal Chawal - Boiled rice with spicy lentils\n- Lahori Steamed Charga\n- Lahori Chana Chat\n- Lahori Daal Murgh\n- Lahori Red Chicken Karahi\n- Hareesa - A mixture of Mutton & Lentils\n- Fried fish\n- Beef Bong Paaye - Beef Shank meat with foots\n- Chikkarh Chollay - Water Cooked white grains in black pepper\n- Naan Haleem - Baked Chapatti bread with mixture of Beef & Lentils\n- Chicken pakora - chicken pieces roasted with Maida\n- Chicken Sajji - Roasted & Salted Chicken on low flame in hunter style"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "OK, OK, I know chicken tikka masala is probably not actually from India. Many (including the irrefutable QI) say that it actually originated in Glasgow in the 70s, after Indian spices were introduced to Great Britain. Wikipedia still says the origin is “disputed” however, and my boyfriend insisted that I cook it, so here we are. It’s usually tomato-based, with coconut cream and mild, sweet spices. Saag paneer basically has saag, which is a spinach-based curry, and paneer, which is cheese. I made the paneer, it’s pretty easy, you just follow the same steps as ricotta, but then at the end press it between two heavy objects so that it becomes a solid block. After that you just cut it up and lightly fry it. The cheese and spinach go really well together, especially with a squeeze of lemon on top."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_002",
+            "query": "Walk me through the necessary components and techniques to prepare Jhilinga (Nepalese Rice Fritters).",
+            "response": "To prepare Jhilinga (Nepalese Rice Fritters), follow these steps:\n\n1. **Boil Water**: In a large pot, bring enough water to cover the ingredients. Bring to a boil over high heat.\n\n2. **Add Ingredients**: Add sugar, salt, cinnamon, and ghee to the boiling water. Stir well to combine.\n\n3. **Cook Rice Flour**: Continue cooking the mixture over low heat until the water is absorbed. The dough should be the consistency of chapati dough. Let it cool.\n\n4. **Shape and Fry**: Once the dough has cooled, shape it into small balls. Roll them into thin strips. Place the strips in a hot pan and fry them in vegetable oil until they are golden brown all over.\n\n5. **Serve**: Serve the fritters warm with green chillies, onions, yogurt, and badi (cumin powder).\n\n6. **Optional Garnish**: You can also serve it with green chilies, onions, yogurt, badi, and other spices like cumin, coriander, and turmeric.\n\n7. **Storage**: Store the fritters in an airtight container at room temperature for up to one week.\n\n8. **Preparation Time**: Preparation time typically takes about 10 minutes.\n\n9. **Cooking Time**: Cooking time varies depending on the type of fritter and the desired level of spiciness. For example, a simple jhilinga might take around 10-15 minutes, while a more complex dish could take longer.\n\n10. **Serving Size**: Typically, each serving size is about 10-15 pieces.\n\nThis method involves combining traditional Nepalese cuisine with modern cooking techniques to create a unique and flavorful dish.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Tharu raise chickens and are reported to employ dogs to hunt rats in rice paddies and then roast them whole on sticks. Mutton may be obtained from nomadic hill people such as Kham Magar who take herds of sheep and goats up to sub-alpine pastures bordering the high Himalaya in summer, and down to Inner Madhesh valleys in winter. Increasing competition for land forces the Tharu people away from shifting cultivation toward sedentary agriculture, so the national custom of eating rice with lentils gains headway. The Tharu have unique ways of preparing these staples, such as rice and lentil dumplings called bagiya or dhikri and immature rice is used to make a kind of gruel, maar ."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "- Boil water in a deep pot.\n- Slowly add the required amount rice flour and food color into the boiling water, stirring constantly with a wooden spoon. It is same as the process of making dhindo but without the ghee. The mixture should have a good balance and consistency of flour and water.\n- After it is cooked, process the dough through a noodle machine that can make really thin strips.\n- Shape the dough strips into circles. Set out in the sun for a few days to dry and set.\n- Once evenly set, deep fry them in vegetable oil."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "- Dough: Boil water in a wide-mouth pan. Stir in sugar, salt, cinnamon, and ghee. Slowly and continuously stir in the rice flour. Cover the pan, and cook over low heat until the water is absorbed. The dough should be the consistency of chapati dough. Let cool.\n- Filling: Melt the ghee in a pan over medium heat. Add coconut and sugar. Cook, stirring, until the coconut turns golden brown.\n- Assembly: Knead the cooled rice mixture to make a smooth dough. Make small balls of dough, roll them, and stuff with the fried coconut mixture and sesame seeds.\n- Deep fry the filled pastries in the oil or ghee until golden brown all over."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Pakhala is a rice dish made by adding water with curd to cooked rice. It may then be allowed to ferment overnight. This is called basi pakhala and dahi pakhala. The unfermented version of this is called saja pakhala . It is served with green chillies , onions , yoghurt , badi etc. It is primarily eaten in summer.\n- Khechudi is a rice dish cooked with lentils . It is the Odia version of khichdi .\n- Palau is a rice dish made from meat, vegetables and raisins . It is the Odia version of pilaf .\n- Kanika is a sweet dish made with rice, and garnished with raisins and nuts .\n- Ghee rice is prepared by frying rice with ghee and cinnamon .\n- Upma , served with ghugni is a breakfast recipe made with semolina."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Raitas are prepared by mixing thick dahi (yoghurt) with several vegetable, herbs, and seasonings."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_003",
+            "query": "Trace the historical origins and regional evolution of Tamil cuisine.",
+            "response": "Based on the information provided:\n\n1. Tamil cuisine originated in the southern Indian state of Tamil Nadu.\n2. It has evolved over time, with distinct regional styles forming parts of South Indian cuisine.\n3. In Sri Lanka, dosa (a type of rice pudding) was introduced long ago, possibly as early as the 18th century.\n4. The introduction of dosa to Southeast Asia and beyond occurred during the late 19th and early 20th centuries.\n5. The global popularity of Indian and Sri Lankan cuisines began in the mid-20th century, with the second half of the century being particularly influential.\n6. Tamil cuisine has incorporated various types of food, including cereals, legumes, vegetables, fruits, dairy products, meats, poultry, fish, seafood, and preserved foods like dried fish and pickles.\n7. Traditional Tamil diets typically include fresh and preserved foods, especially in coastal and rural areas.\n8. The chemistry of Tamil cuisine involves fermenting foods, using organic acids, starches, and lipids, influencing taste, preservation, nutrient availability, and digestive physiology.\n\nThese points summarize the historical origins and regional evolution of Tamil cuisine, highlighting how it has adapted to different cultural influences and geographical locations.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Tamil cuisine is the culinary traditions of Tamil-speaking populations, primarily from the southern Indian state of Tamil Nadu and the Tamil-majority regions of Sri Lanka. It encompasses distinct regional styles, broadly divided into the Tamil Nadu style, which forms a key component of South Indian cuisine, and Sri Lankan Tamil cuisine, which has evolved in conjunction with other Sri Lankan culinary traditions."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Each area where Tamils have lived has developed its own distinct variant of the common dishes. The four divisions of ancient Tamilakam prepare their unique Tamil cuisine."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "As in Sri Lanka, dosa was introduced far abroad since the early 18th century, by the migration of the Indian Tamil diaspora to Southeast Asia and later in the Western world , and through the worldwide popularisation of Indian and Sri Lankan cuisines since the second half of the 20th century."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Tamil cuisine includes a wide range of plant-based, animal-based, and preserved foods that collectively provide carbohydrates, proteins, fats, vitamins, minerals, and dietary fibre. The cuisine incorporates cereals, legumes, vegetables, fruits, dairy products, meat, poultry, fish, seafood, and preserved foods such as dried fish and pickles, contributing to a nutritionally diverse dietary pattern. Traditional Tamil diets include both fresh and preserved foods, particularly in coastal and rural regions, where drying, salting, and fermentation have historically been used to extend shelf life and maintain nutrient availability."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The chemistry of Tamil cuisine refers to the biochemical and physicochemical processes involved in its ingredients, preparation methods, and digestion. Traditional Tamil meals incorporate fermented foods, organic acids, plant fibres, proteins, fats, and carbohydrates, all of which influence flavour, preservation, nutrient availability, and digestive physiology. Food chemistry research has examined fermentation, organic acid composition, starch digestibility, and lipid content in cereal- and pulse-based diets typical of South India, including Tamil cuisine."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_004",
+            "query": "Which specific preparation steps or core ingredients are essential for Recheado masala fish and prawn vindaloo?",
+            "response": "For Recheado masala fish and prawn vindaloo, the following core ingredients are essential:\n\n1. **Fish**: Specifically, mackerel or pomfret are the main ingredients used in both recipes. Both dishes feature these fish species, though the proportions may vary slightly depending on regional preferences.\n\n2. **Vindaloo Paste**: This is the key ingredient that forms the base of both dishes. It includes various spices and seasonings like cumin, pepper, cinnamon, mustard, turmeric, garlic, ginger, fenugreek, cloves, and mustard seeds. The exact proportions and combinations of these spices will depend on the recipe being prepared.\n\n3. **Ginger**: Essential for adding flavor to the dish, especially when using the vindaloo paste.\n\n4. **Garlic**: Another crucial component, contributing to the savory and aromatic flavors of the dish.\n\n5. **Cumin**: Adds warmth and depth to the dish, enhancing the overall flavor profile.\n\n6. **Pepper**: Enhances the heat level of the dish, making it suitable for those with a preference for spicy foods.\n\n7. **Mustard Seeds**: Provides a crunchy texture and adds a touch of sweetness to the dish.\n\nThese ingredients work together to create the distinct flavors and textures characteristic of Recheado masala fish and prawn vindaloo.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Recheado masala describes a spicy, tangy paste made from ginger, garlic, dried chilli, cumin, pepper, cinnamon, fenugreek, cloves, mustard, turmeric, sugar and vinegar. It is used in Goan cuisine to flavour all sorts of dishes, but the most famous use is to stuff and coat fish, usually mackerel or pomfret. The paste is slathered inside the cavity of the fish, and then coated all over the outside, and the fish is then fried until the paste is caramelised and the skin is a bit crispy. I found this a wonderful way to prepare fish – quick, simple, full of flavour and delicious. I first encountered the concept of vindaloo during my childhood exposure to the classic British 80s and 90s comedy “Red Dwarf”. This sitcom is based on the premise of a space mission that goes awry, killing almost all occupants, leaving a skeleton crew millions of years later led by Lister, a relaxed, sloppy, dreadlocked worker who was coincidentally frozen in suspended animation at the time of the accident. Lister is joined by the hologram of his former bunkmate Rimmer, a tediously tidy, pedantic and power-hungry goody-two-shoes, “Cat”, the human-like result of millions of years of evolution from Lister’s former pregnant pet cat, and Kryten, a subservient but dim-witted robot. Convinced yet? Anyway, while Cat is understandably obsessed with eating only fish, “curryholic” Lister’s meal of choice is always variants of vindaloo, including abominations such as kipper vindaloo, caviar vindaloo, and chilled"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "“curryholic” Lister’s meal of choice is always variants of vindaloo, including abominations such as kipper vindaloo, caviar vindaloo, and chilled vindaloo smoothie for breakfast. The only other information about vindaloo that I garnered from this source is that vindaloo is very hot, hot enough, in fact, to render Lister’s tastebuds useless after many millennia of curry-addiction. Vindaloo is actually from the Goan region of India, and was formed from a hybrid of Portuguese and Indian influences, originally from the preservation of ingredients in vinegar by Portuguese sailors. Its basis is a paste made with vinegar, cumin, dry chillies, pepper, cloves, cinnamon, turmeric, garlic and ginger. This is mixed with tomatoes, potatoes, onions and curry leaves to form a thick spicy sauce. A meat is then added to this mix, most traditionally pork, but for which I used prawns. I found the vindaloo very spicy, despite substantially (and with considerable cowardice) reducing the recommended amount of dried chilli. I can therefore understand why one could develop such an extreme addiction to it, given the demonstrated addictiveness of chilli due to its endorphin-releasing nature. I shall endeavour to foster my curry-addiction more attentively in the future."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "- 300 g cauliflower\n- Vegetable oil\n- 100–150 g finely-chopped onions\n- 4–5 average-size tomatoes, chopped\n- 3–4 pieces finely-chopped green chiles\n- Finely-chopped ginger\n- 1 tablespoon red chile powder\n- Finely-chopped coriander leaves\n- 1 tablespoon garam masala\n- 1 tablespoon pepper\n- Salt to taste"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Toast the fenugreek and onion seeds first by heating and tossing in a sauté pan for several minutes. Grind them together using a mortar and pestle or spice grinder.\n- In a food processor, blend fenugreek and onion seeds with the salt, garam masala, turmeric, curry powder, coriander powder, cumin, chili powder, paprika, garlic, vegetable oil, ginger, jalapeños, cilantro and lemon juice until all the ingredients become a smooth paste.\n- Spoon the mixture into a large mixing bowl and stir in the yogurt.\n- Marinate meat or fish for 8 hours (or bathe first in white distilled vinegar for shorter marination time). Tofu, vegetables or paneer can be tossed into the marinade just before grilling. Use the marinade to baste over the grill."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "- Meen puli muzham/Fish in thick coconut tamarind gravy\n- Meen karutha curry/Fish black curry[in fried coconut, shallots, garlic, dried ginger, peppercorns, coriander seeds, red chillies, oregano and other spices]\n- Thengai paal meen curry/Fish in spicy coconut milk gravy.\n- Sura puttu/Fishpittu\n- Iraal masala/Prawn spicy masala\n- Iraal milagu varuval/ Spicy prawn pepper fry\n- Coconut fish fry\n- Nethili meen curry/White bait/anchovies curry\n- Nethili meen varuval/Spicy deep fried anchovies\n- Prawn ghee roast\n- Fish briyani\n- Prawn briyani\n- Meen maanga curry/ Fish mango curry\n- Spicy chettinad prawn masala\n- Fish curry in ginger and coconut milk\n- Spicy Vanjaram fry/Spicy salmon fry\n- Chettinad fish curry\n- Nandu masala/Crab curry\n- Nandu omelette/Crab omelette\n- Nandu rasam/Crab soup\n- Chippi appam – an appetizer made with curried rice flour and oysters . This is a favorite among the Muslim population in the Kanyakumari District ."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_005",
+            "query": "What are some advanced tips, variations, or specific steps that elevate the preparation of Tandoori Masala?",
+            "response": "Based on the information provided, here are some advanced tips, variations, or specific steps that could elevate the preparation of Tandoori Masala:\n\n1. **Use of Different Spices**: Experiment with using different combinations of spices to achieve the desired flavor profile. For example, you might add cardamom, cloves, and cinnamon to enhance the warmth and depth of the dish.\n\n2. **Roast Chicken in a Clay Oven**: Instead of using a regular oven, consider using a clay oven. This will give your Tandoori Masala a more authentic and traditional taste.\n\n3. **Add Red Food Coloring**: Enhance the color of the tandoori masala by adding red food coloring to the yogurt-based marinade. This adds a vibrant pop of color to the dish.\n\n4. **Serve with Vegetables**: Tandoori Masala pairs well with various vegetables. You can serve it with mixed vegetables like carrots, bell peppers, and onions, or even add them directly to the dish.\n\n5. **Use of Tandoori Roti**: Consider making a special version of Tandoori Masala called \"Tandoori Roti.\" This would involve coating the roti with a mixture of spices and then baking it in the tandoori masala oven.\n\n6. **Deep-Frying Techniques**: Learn how to deep-fry the roti to a crispy texture. This technique can make the dish extra flavorful and satisfying.\n\n7. **Variations on the Recipe**: Try experimenting with different types of tandoori masala, such as those made with different spices or flavors. This can help you find the perfect balance of flavors for your own taste preferences.\n\n8. **Seasoning**: Add a pinch of cumin seeds or coriander to the yogurt-based marinade before roasting the chicken. This can enhance the flavor profile significantly.\n\nBy incorporating these tips and variations, you can create a truly exceptional Tandoori Masala dish that stands out from other similar dishes.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Tandoori masala is a mixture of spices specifically for use with a tandoor, or clay oven, in traditional Pakistani and Indian Punjabi cooking. The specific spices vary somewhat from one region to another, but typically include fenugreek, cinnamon, cumin, coriander, garlic, ginger, etc."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "For this meal I made three typical North Indian appetisers, the first being tandoori chicken. The name comes from a “tandoor”, which is a cylindrical clay oven in which the chicken pieces are typically roasted after being marinated in a mixture of yoghurt, lemon juice and tandoori masala, which contains spices such as cayenne pepper, chilli powder, cumin, ground coriander, garam masala, ginger and turmeric. In modern times, the red colour of the cayenne pepper and chilli powder is often enhanced by the addition of red food colouring to create the deep hue associated with the dish. The tandoor oven is also commonly substituted for a regular oven or barbecue by home cooks. The earliest evidence of people roasting marinated chicken in clay ovens can be traced as far back as 3000 BC in the northwest of India. The dish was then associated with Punjab region, encompassing northern India and Pakistan, subsequently exploding into national and international popularity in the mid 1900s after being publicised by Punjabi chefs of the region and subsequently being advertised by the Los Angeles Times as a fresh new recipe for the American populace to try. Samosas are Indias most famous version of the “pastry-enclosing-filling” concept that I’m increasingly noticing is common the world over. The dough is usually formed with plain wheat flour, oil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "There are many styles of cooking used by Muhajirs. Modern methods such as cooking on gas cookers are the most famous. Tandoori style of cooking involves use of the tandoor . The Tandoori style is mostly used by Muhajirs from Rajasthan, Delhi and Agra where the tandoor is thought to be originated. A tandoor may be used to bake many different types of flatbread. Some of the most common are tandoori roti , tandoori naan , tandoori laccha paratha , missi roti, laffa , and tandoori kulcha ."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Tandoori chicken : chicken marinated in a mixture of spices and yoghurt and cooked in a clay oven.\n- Thosai : rice and lentil pancake. Also served as a \"masala\" version that includes spiced potatoes and served with different types of sambar, wrapped with thosai which is fried to a crispier texture then the typical homestyle version."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "- Baked in the tandoor like naan , tandoori roti , kulcha , or lachha paratha\n- Dry baked (Indian griddle), jowar di roti, baajre di roti and makki di roti (these are also smeared with white butter)\n- Shallow fried like paratha\n- Deep fried like puri, Kachori and bhatoora (a fermented dough)\n- Salt-rising bread : Salt-rising bread is a unique bread found only in the Salt Range region of Punjab, Pakistan. Since rock salt is readily available in the salt range, many people in the past made use of salt instead of yeast to leaven the bread.\n- Papar\n- Taftan : an Iranian bread popular in Pakistan and Lahore. It can be eaten with korma and nihari ."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_006",
+            "query": "Provide a brief overview of the defining characteristics of Bengali cuisine.",
+            "response": "Bengali cuisine is characterized by its use of various condiments, including mustard oil, which is commonly used in many dishes. Additionally, the cuisine emphasizes the use of fresh water fish, particularly barramundi, as a staple protein source. The emphasis on rice as a staple food is also notable, though there is a preference for fish over marine fish due to the availability of freshwater species. The cuisine also features meat consumption, but beef is not as widely consumed compared to other regions. Lentils are mentioned as an important component of the diet, especially in more recent times. The use of boti (also called dao or da) is another distinctive feature of Bengali cuisine, which is a type of long curved blade that is held down by one or both feet and used for cutting.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Bengali cuisine is the culinary style of Bengal , comprising now most of Bangladesh and parts of India (i.e., West Bengal and Barak Valley ). The cuisine has been shaped by the region's diverse history and climate. It is known for its varied use of flavours including mustard oil , as well as the spread of its confectioneries and desserts. There is a strong emphasis on rice as a staple, with fish traditionally the most common protein. Freshwater fish are preferred to marine fish, although barramundi , known as bhetki , is also common. Meat is also a common protein among Bengalis, with chicken and mutton being the most popular. Beef is popular within the Muslim community.However meat from any sources is consumed far less than fish in Bangladesh. In more recent times, lentils have begun to form a significant part of the diet. Many Bengali food traditions draw from religious and social functions, such as adda , Poila Boishakh , Eid , and Durga Puja ."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Bengali food is often served on plates which have a distinct flowery pattern often in blue or pink. Another characteristic of Bengali food is the use the boti (also called dao or da ). It is a long curved blade on a platform held down by one or both feet; both hands are used to hold whatever is being cut and move it against the blade, which faces the user. This method gives effective control over the cutting process, and can be used to cut anything from prawns to large pumpkins."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Bengali cuisine can be subdivided into four different types of dishes: eatables (খাদ্য, ভক্ষ্য, or ভোজ্য); চর্ব্য , chôrbyô , or chewables , such as rice or fish; চোষ্য , choshyô , or suckables , such as ambal and tak; লেহ্য , lehyô , or lickables , like chutney ; and পেয় , peyô , or drinkables which includes drinks, mainly milk."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Bangladeshi cuisine is dominated by Bengali cuisine and has been shaped by the diverse history and riverine geography of Bangladesh . The country has a tropical monsoon climate . Rice is the main staple food of Bangladeshi people and it is served with a wide range of curries ."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The Chittagong Hill Tracts are home to tribes with their own culture and cuisine. Chakma cuisine uses sidol , a paste made from fermented shrimps and fish, and suguni , dried shrimp or fish. Their dishes use more herbs from the hills more than the spices common in Bengali dishes. Important seasonal ingredients include wild mushrooms and the Flowers of ginger and turmeric plants. Sumoh gorang is a dish cooked in bamboo and Hebaang is baked in banana leaves in a mud oven. Marma cuisine uses a paste of dried fish called nappi . Rice beer is a popular drink."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_007",
+            "query": "What historical or regional factors contribute to the significance of Northern India in Northern India?",
+            "response": "Based on the information provided, several historical and regional factors contribute to the significant role of Northern India in Northern India:\n\n1. Historical Influence: Northern India has a long history dating back thousands of years, with evidence of human habitation dating back to 3000 BC in the northwest of India. This ancient tradition of cooking marinated chicken in clay ovens continues to influence contemporary Northern Indian cuisine.\n\n2. Cultural Heritage: Northern India is rich in cultural heritage, with many traditional dishes and recipes passed down through generations. These include tandoori chicken, samosas, and other regional specialties like chana dal (a type of chickpea stew).\n\n3. Economic Importance: Northern India is economically important due to its abundant natural resources, including fertile soil suitable for agriculture, and its proximity to major trade routes connecting Europe and Asia.\n\n4. Religious Significance: Northern India is home to numerous religious sites and pilgrimage destinations, contributing to its cultural and spiritual importance.\n\n5. Linguistic Diversity: The language spoken in Northern India, Hindi, is closely related to the languages spoken in neighboring Pakistan and Afghanistan, further enriching the linguistic diversity within the country.\n\n6. Tourism: Northern India attracts millions of tourists annually, providing economic opportunities and contributing to the country's tourism industry.\n\n7. Cuisine: The cuisine of Northern India is renowned worldwide, reflecting the country's diverse geography, culture, and history.\n\n8. Education: Many universities in Northern India offer courses in various fields, including culinary arts, reflecting the country's educational infrastructure.\n\nThese factors collectively make Northern India a crucial hub for both cultural and economic development, influencing the country's cuisine, traditions, and overall identity.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "While Northern India’s climate is better suited to producing wheat and dairy, Southern India relies more upon rice as the carbohydrate staple, as well as a larger variety of seafood, lentils, curry leaves and tropical fruits, such as coconut. As I’ve already covered in my Northern India blog, most of the curries that would be familiar to Westerners and served in international Indian restaurants are from the north, leaving the south as somewhat of an unknown quantity for me. As it turns out, the cuisine is remarkably varied, tasty and surprisingly healthy, and, despite my aversion to monotonous diets, I think I would be happy to eat this fare daily for quite some time."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "For this meal I made three typical North Indian appetisers, the first being tandoori chicken. The name comes from a “tandoor”, which is a cylindrical clay oven in which the chicken pieces are typically roasted after being marinated in a mixture of yoghurt, lemon juice and tandoori masala, which contains spices such as cayenne pepper, chilli powder, cumin, ground coriander, garam masala, ginger and turmeric. In modern times, the red colour of the cayenne pepper and chilli powder is often enhanced by the addition of red food colouring to create the deep hue associated with the dish. The tandoor oven is also commonly substituted for a regular oven or barbecue by home cooks. The earliest evidence of people roasting marinated chicken in clay ovens can be traced as far back as 3000 BC in the northwest of India. The dish was then associated with Punjab region, encompassing northern India and Pakistan, subsequently exploding into national and international popularity in the mid 1900s after being publicised by Punjabi chefs of the region and subsequently being advertised by the Los Angeles Times as a fresh new recipe for the American populace to try. Samosas are Indias most famous version of the “pastry-enclosing-filling” concept that I’m increasingly noticing is common the world over. The dough is usually formed with plain wheat flour, oil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "North Indian cuisine has some Central Asian influences introduced during Mughal Empire as compared to its southern or eastern counterparts in the subcontinent."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "A traditional dish with origins in Northern India , it is very popular throughout the country and is also well known in the cuisines of Nepal , Bengal and Pakistan ."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_008",
+            "query": "What is the primary culinary purpose or profile of Mild Salty Lassi?",
+            "response": "The primary culinary purpose or profile of Mild Salty Lassi is its use as a dairy product, specifically a milk-based drink. It is described as a \"dairy product\" in both sources 1 and 2, indicating its role in the broader category of dairy beverages. Additionally, it is mentioned as being used for \"making traditional Punjabi cottage cheese called paneer,\" suggesting its association with this specific type of cheese. Therefore, the primary culinary purpose or profile of Mild Salty Lassi is its function as a dairy product serving as a base for making traditional Punjabi cottage cheese.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Lassi are yogurt-based beverages in either sweet or salted flavors. The most common flavors include mango, rose water, and plain sugar-sweetened lassi."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Dairy products are a staple in Punjabi cuisine. Both cow milk and water buffalo milk are popular. Milk is used for drinking, to add to tea or coffee, to make homemade dahi (yogurt), for butter and making traditional Punjabi cottage cheese called paneer . Traditionally, yogurt is made every day using the previous day's yogurt as the starting bacterial culture to ferment the milk. Curd is used as dressing for many raita dishes, to prepare kadhi , to prepare cultured buttermilk ( chaas ), and as a side dish in a meal. Buttermilk is used in making various kinds of lassi . It may also be used in curry preparations. Milk is also the prerequisite ingredient for butter and ghee (clarified butter)."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "- Banarasi lassi – a Varanasi variation of lassi . The curd for banarasi lassi is made with reduced milk, which gives it a creamy and thick texture. It is then sweetened, churned, and served with rabdi in earthen pots called kulhads .\n- Amjhora – a mango -based drink prepared during summer. Raw mango is first charred or barbecued in embers, then peeled and pitted. The mango pulp is then flavoured using cumin powder, rock salt, mint, and jaggery, then mixed with chilled water to make a drink.\n- Thandai – a sweet and cold milk-based drink prepared with a mixture of almonds , fennel seeds, watermelon kernels, rose petals, pepper , poppy seeds , cardamom , saffron , milk , and sugar . It can be prepared in many variations. It is usually prepared for Maha Shivaratri and Holi festivals.\n- Kachras / ookh ke ras – a sugarcane juice flavoured with ginger, mint, lemon. It is commonly drunk in bright afternoon period during winters. Sometimes it is mixed with citrus juice (orange) to reduce sweetness.\n- Sattu ke ghor (Sattu Drink)– a drink prepared with sattu (roasted chickpea flour) and served chilled. Sattu products are specially linked with Bhojpuri culinary tradition.\n- Falooda – a drink prepared from vermicelli, rose syrup, and sweet basil seeds.\n- Maathaa ( chhachh ) – a curd-based drink that can be served plain, seasoned with spices, or sweetened.\n- Khas paanak\n- Hajmola Chah"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Moru: Buttermilk, made thin with water called 'Neer Moru'. sometimes seasoned with mustard seeds, curry leaves, small onions, called 'Thalicha moru'.\n- Badam milk: milk, flavoured and thickened with crushed almonds.\n- Filter coffee : sweet milky coffee made from dark roasted coffee beans (70%-80%) and chicory (20%-30%).\n- Lassi : Lassi is a cold yoghurt drink served in a tall glass with a straw. It comes in two varieties: salted or sweet.\n- Masala chai : a beverage made by brewing tea with a mixture of aromatic Indian spices and herbs.\n- Teh tarik : literally meaning \"pulled tea\", teh tarik is a well-loved Malaysian drink. Tea is sweetened using condensed milk, and is prepared using outstretched hands to pour piping hot tea from a mug into a waiting glass, repetitively. The higher the \"tarik\" or pull, the thicker the froth. The \"pulling\" of tea also has the effect of cooling down the tea. Teh tarik is an art form in itself and watching the tea streaming back and forth into the containers can be quite captivating. Similar drinks and variants include kopi tarik, or \"pulled coffee\" instead of tea; teh halia , tea brewed with ginger, and with or without the tarik treatment; and teh madras, which is prepared with three separate layers: milk at the bottom, black tea in the middle and foam at the top."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "- Saag : a variety of leafy greens (including spinach and mustard greens), typically cooked down to a stew, tempered with ginger, tomato, onion, garlic, chilies and other spices, and often enriched with paneer or cream. Bathua is also added to enhance the flavor. It is served with butter on top and with makki ki roti. Saag is a winter and spring delicacy; it is one of the most popular dishes of Punjab.\n- Eggplant: Baingan bharta is similar to baba ghanoush in the way the eggplant is prepared by roasting and peeling the skin off, but much richer, with the incorporation of much cooked tomato, browned onion and a variety of spices instead of tahini .\n- Punj Ratani Dal: A thick gravy that uses 5 legumes, with tomato, browned onion and spices.\n- Punjabi kadhi pakora (traditional curry with rice). Kadhi is a type of curry made with yogurt or buttermilk, which is thickened with chickpea flour and seasoned with ginger, turmeric, chilies, and tempered spices . Deep-fried lumps of spiced chickpea-flour batter ( pakoras ) are also added.\n- Punjabi lassi paneer: In the Punjab , it is traditional to prepare lassi and then extract the paneer which would then be consumed by adding water, salt and chili. Lassi paneer can also be added to potatoes and spices to make a curry which resembles scrambled eggs. Lassi paneer cannot be cut into cubes as paneer from milk can be."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_009",
+            "query": "What are the staple ingredients or cultural practices that shape Pakistani cuisine?",
+            "response": "Based on the information provided:\n\n1. **Lentils**: These are widely used as a staple ingredient in Pakistani cuisine.\n2. **Rice**: Another essential grain, often substituted for wheat in Pakistani meals.\n3. **Vegetables**: A significant portion of Pakistani cuisine includes various types of vegetables.\n4. **Grilled Meat**: While meat is commonly used, it is also popularly prepared using other methods like kebabs, shami kebab, etc., especially in certain regions.\n5. **Kebabs**: These are a type of meat preparation that originated in Pakistan and is now widely consumed throughout the country.\n6. **Sesame**: Used in various dishes, including kheer and garam masala.\n7. **Eggplant**: Often used in curries and stews.\n8. **Tikka**: A popular dish made with lamb, beef, or chicken, typically cooked in a kadhi (a thickened milk-based sauce).\n9. **Shami kebab**: A type of meat dish that combines lamb, chicken, or beef with vegetables and spices.\n10. **Chicken Tikka Masala**: A popular dish that features marinated chicken breast, served with yogurt and onions.\n\nThese ingredients and practices collectively contribute to the rich and diverse nature of Pakistani cuisine, reflecting both local traditions and broader influences from neighboring cultures.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Pakistani cuisine is traditionally centered around meat-based dishes. However, the high cost of meat, coupled with widespread poverty, leads many households to substitute meat with more affordable staples such as lentils, rice, and vegetables."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Meat and grilled meat have played an important role in Pakistan for centuries. Kebabs are a staple item in Pakistani cuisine today, and one can find countless varieties all over the country. Each region has its own varieties, but some, like seekh kebab , chicken tikka , and shami kebab are eaten throughout the country."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Pakistan 's national cuisine directly inherits from Indo-Aryan , Turko-Persian , Iranic , and Arab , and it is heavily influenced by Muslim culinary practices. Evidence of controlled preparatory cuisine in the region can be traced back to as early as the Bronze Age with the Indus Valley Civilization . Around 3000 BCE, sesame , eggplant , and humped cattle were domesticated in the Indus Valley; spices like turmeric , cardamom , black pepper and mustard were harvested in the region concurrently. For a thousand years, wheat and rice served as basic comestibles in the Indus Valley region."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Pakistani cuisine is influenced by neighbouring Indian cuisine and Central Asia, as well as having historical influences from the Mughal Empire, ruled from the 1500s by a Muslim dynasty. There is great diversity across the varied cultural groups and regions of Pakistan, particularly along the east-west axis, with the eastern part of the country favouring strongly seasoned and spicy food, similar to their Indian neighbours, whereas the western part favours milder recipes that resemble their Central Asian neighbours. One thing seems to unite many Pakistanis however: the average citizen eats many times more meat than their neighbours. The Indus valley, which runs through Pakistan, was one of the early cradles of civilisation due to its climatic conditions and fertile earth. This region nurtured the rise of numerous ingredients critical to Pakistani food from as early as 3000 BC, including eggplant, turmeric, cardamom, black pepper, mustard, sesame and the domestication of cattle. As with some Central Asian countries, it is common for many families to eat cross-legged on the floor around a cloth called a dastarkhan, or a slightly raised platform called a takht. I think I might start championing this custom all over the globe – it would be great to save space by not having a big bulky dining table that’s rarely used, and to be able to invite innumerable guests for dinner, only requiring a large enough cloth to accommodate them all!"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Pakistani food makes use of fresh, hand-pounded masalas . Ghee is used, but the main component of the meal or a dish is meat ( beef , lamb , chicken , goat , or fish ), vegetables or pulses. Since the cuisine is very similar to Punjabi-style of cooking , tikka , simmered dals , tawa sabzi, and chaat feature here."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_010",
+            "query": "How would a food critic likely describe the main traits of Chapli kebab, chana chaat and green salad?",
+            "response": "A food critic might describe the main traits of Chapli kebab, chana chaat, and green salad as follows:\n\n1. **Cheesy and Spicy**: Both dishes are characterized by their use of cheese and spiciness.\n2. **Flat and Round Shape**: Both kebabs have a classic, flat and round shape resembling a hamburger patty.\n3. **Porous Structure**: Both kebabs are made from meat that has been marinated in a flavorful sauce, resulting in porous structures.\n4. **Vegetarian Base**: Both dishes feature a vegetarian base, using either beef mince or lamb.\n5. **Flaky Texture**: Both kebabs are flaky, often described as having a crispy texture.\n6. **Savory Flavor**: Both dishes are rich in savory flavors, with a combination of spices and seasonings.\n7. **Balanced Ingredients**: Both kebabs and chana chaat are balanced with various ingredients like onions, tomatoes, ginger, garlic, cumin, and cayenne pepper.\n8. **Versatile**: Both dishes can be enjoyed at different stages of preparation, from grilled to deep-fried, making them versatile for various occasions.\n9. **Diverse Variations**: Both kebabs and chana chaat offer unique variations, such as adding different types of spices or incorporating additional ingredients like potatoes or noodles.\n10. **Tasteful Presentation**: Both dishes are presented tastefully, with garnishes like onions, tomatoes, and cilantro enhancing their flavor profile.\n\nThese descriptions highlight the key characteristics of each dish, emphasizing its distinctive qualities and presentation.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Chapli kebab originates from Peshawar in northwest Pakistan (and is therefore also sometimes called Peshwari kebab), but is now popular all over the country, as well as in India and Afghanistan. It can be served at barbecues, by street vendors, in lunch boxes, by restaurants or home cooks. The word chapli comes from a Pashto word meaning “flat”, which refers to the classic shape of the kebab which resembles a round hamburger patty. However, there are also some who argue it comes from another word meaning “sandal”, and that the kebabs are supposed to resemble the size and thickness of the front sole of a traditional shoe. I made my chapli kebabs by marinating beef mince (although lamb is also sometimes used), with garam masala, chilli powder, cayenne pepper, coriander, mint, onions, tomatoes, ginger, garlic, cumin, lemon and egg to bind. I then formed them into patties and shallow-fried them in a saucepan. Chana chaat is a classic street food made with cooked chickpeas, cubes of potato, onion and tomato, spices with chilli, cumin, chaat masala, lime/lemon juice, coriander and mint. Its name comes from words which can mean “a delicacy” “to lick/taste” and “to eat noisily”. A name to raise one’s expectations if ever there was one! Indeed both the kebabs and chana chaat were extremely aromatic and delicious, and, along with the green salad, provided a mix of colours, temperatures and textures that was very enjoyable."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Chickpeas, red kidney beans, and other legumes are also popular in Pakistani cooking. They are usually cooked in a spicy gravy and served with rice or traditional flatbread ( roti ). Chickpeas, known as channa, are also a common breakfast food when served with puri. Channa chaat is another favorite street food and iftaar dish; it is made of chickpeas, chopped onions, tomatoes, and chillies, and seasoned with spices ( chaat masala ) and tamarind paste."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Chaat originated in Uttar Pradesh but are now popular across South Asia as a staple of street food. The chaat variants are based on fried dough, with added ingredients. The original chaat is a mixture of potato, chickpeas, spices, chilli, saunth (dried ginger and tamarind sauce), coriander leaves, and yogurt, but other popular variants include aloo tikkis (garnished with onion, coriander, hot spices and a dash of curd), dahi puri , golgappa , dahi vada and papri chaat ."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Kebabs are an integral part of Awadhi cuisine. There are several varieties of well-known kebabs in Awadhi cuisine, including kakori kebabs, galawat ke kebabs, shami kebabs, boti kebabs, patili ke kebabs, ghutwa kebabs and seekh kebabs."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "- Pakoura thongba or bora thongba : a fritter curry\n- Chagem pomba : a curry made with fermented soya, mustard leaves, roasted or smoked fish and other herbs; broken rice is also a main ingredient and so the name \"chagem\" in this dish\n- Keli chana : a spicy chickpea snack\n- Alu kangmet : boiled potatoes mashed with fried red chili and nakuppi with salt and/or dressed with mustard oil\n- Sana thongba : a curry prepared with paneer\n- Yen thongba : a chicken curry\n- Nganu thongba : a duck curry\n- Oak thongba : a pork curry\n- San thongba : a beef curry\n- Hameng thongba : a mutton curry\n- Tharoi thongba : a snail curry\n- Pan hawaijar thongba : a taro and fermented soybean curry\n- Soibum thongba : a bamboo shoot curry\n- Sagol hawai thongba : a black lentil curry\n- A-nganba or champhut : steamed vegetables, such as pumpkin, peas, carrots, French beans, etc\n- Chak-hao kheer : a black rice pudding\n- Tilhou kheer : a onion pudding\n- Chemmeen kheer : a prawn pudding\n- Sangom kheer : a white rice pudding\n- Kabok : A puffed rice snack\n- Hei thongba : a fruit curry\n- Kangshubi : a ground seed snack\n- Yerum tal : an omelette"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_011",
+            "query": "Walk me through the necessary components and techniques to prepare Hyderabadi Fried Bread with Syrup and Nuts (Double ka meetha).",
+            "response": "To prepare Hyderabadi Fried Bread with Syrup and Nuts (Double ka Meetha), follow these steps:\n\n1. **Prepare the Dough**: Begin by mixing all the ingredients together in a bowl until they form a smooth dough. This typically includes flour, water, yeast, sugar, salt, and oil. Mix thoroughly until the dough forms a ball.\n\n2. **Shape the Dough**: Once the dough is formed, shape it into a round or oval shape. You can do this by hand or with a rolling pin.\n\n3. **Preheat Oven**: Preheat your oven to 375°F (190°C).\n\n4. **Bake the Bread**: Place the shaped dough onto a baking sheet lined with parchment paper. Bake the bread in the preheated oven for about 15-20 minutes, or until golden brown and crispy.\n\n5. **Add Nut Butter**: After the bread has been baked, add a spoonful of syrup and chopped nuts to the top of the bread. Spread them evenly.\n\n6. **Cool the Bread**: Allow the bread to cool completely on a wire rack before serving.\n\n7. **Serve**: Serve the Hyderabadi Fried Bread with your choice of dip or side dish, such as yogurt, chana dal, or amchur chutney.\n\nThis recipe should yield approximately 8-10 loaves of bread. Adjust the amount of syrup and nuts according to personal preference. Enjoy your meal!",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Andhra Pradesh cuisine is hotly-spiced and often vegetarian, with seafood prominent along the coast; Kerala too has a range of seafood dishes from its coastline. The cuisine of Tamil Nadu is similarly mainly vegetarian, but even hotter. In Telangana , Hyderabadi cuisine is somewhat milder but subtle and full of flavour, making use of saffron, nuts, and dried fruits as well as warmer spices in dishes for the Nizams , the former rulers. A staple of Karnataka cuisine is jolada rotti , a flat unleavened bread made of sorghum flour. It is eaten with pulse curries, ennegayi (stuffed aubergine ) and chutneys. The cuisine of Lakshadweep is based on coconut, fish, and starches; a range of dishes employ oconut milk. Fish, especially tuna , is important in the cuisine; tuna meat is made into Rihaakuru , a thick brown fish sauce."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Deep fried breads include: puris & kachauris (stuffed with dal pithi, vegetables, mawa etc.). Kanda Kachauri , prepared using stuffing of onion based mixture is a speciality of Rajasthani cuisine. Mawa Kachauri is sweet version of Kachauri stuffed with mawa . Jhakolma Puri is a speciality of Mewari cuisine which is a large sized puri prepared using wheat dough of flowing consistency. It is served with Chana Dal and Amchur chutney."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "On special occasions, breads like tandoori roti , stuffed naan , and rumali roti are also prepared."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Bhatoora is a light and airy Indian fried bread, and it is generally eaten with a chickpea curry or cholle."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Kerala has a variety of traditional breads prepared by baking or frying."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_012",
+            "query": "Trace the historical origins and regional evolution of Newar cuisine.",
+            "response": "Based on the information provided, here is a brief overview of how Newar cuisine evolved over time:\n\nHistorical Origins:\n- Newar cuisine originated in the Indus Valley Civilization around 3000 BCE.\n- It was influenced by various factors including domesticated crops like wheat and rice, which became staples in the region.\n- The Indus Valley civilization had a significant impact on the development of Newar cuisine, leading to its unique combination of wheat and rice-based staples.\n\nRegional Evolution:\n- The northern part of India, particularly the Punjab region, developed a distinct style of cooking that emphasized wheat-based dishes and a preference for sweet flavors.\n- The southern part of India, particularly the states of Gujarat and Maharashtra, developed a more meat-centric diet and a preference for spicy curries.\n- The region also saw influences from neighboring Pakistan and the Middle East, which were introduced through trade routes and cultural exchanges.\n- The north often served more wheat-based dishes and incorporated spices like turmeric, cardamom, and black pepper, while the south preferred meat-based dishes and used dried fish instead of meat.\n- The south's emphasis on coconut and vegetarian dishes, along with a strong tradition of using spices like tamarind and roasting spices fresh for each meal, contributed to the overall flavor profile of Newar cuisine.\n- The use of sourness in many dishes, especially those associated with religious rituals, further emphasizes the influence of neighboring Pakistan and the Middle East on the region's culinary traditions.\n\nIt's important to note that these regional variations reflect the complex interplay between different linguistic, cultural, and geographic influences that shaped Newar cuisine throughout history.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Newa cuisine is recognized as one of the oldest food cultures in South Asia. Daily meals in Newa cuisine are commonly referred to as \"Jā Neu/जा नेउ\" or \"Newa Thali\" (also known as \"Newa Jā Bhu/जा भु\" ). These meals typically consist of Taichin rice , lentil soup, a variety of green vegetables, assorted vegetable dishes, and meat items, accompanied by pickles. Traditionally, he morning meal is known as \"Jyaana/ज्या:न,\" the afternoon meal is called \"Baji/ बजी,\" and the evening meal is referred to as \"Beli/बेली.\""
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Although daily Newar food practices consist mostly of components from the generic hill cuisine, during ritual, ceremonial and festive eating, Newar dishes can be much more varied than the generic Pahade/Pahari ones. Newari cuisine widely uses buffalo meat. For vegetarians, meat and dried fish can be replaced by fried tofu or cottage cheese. The cuisine has a wide range of fermented preparations, whereas Pahade/Pahari cuisine has beyond a few aachar condiments."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Pakistan 's national cuisine directly inherits from Indo-Aryan , Turko-Persian , Iranic , and Arab , and it is heavily influenced by Muslim culinary practices. Evidence of controlled preparatory cuisine in the region can be traced back to as early as the Bronze Age with the Indus Valley Civilization . Around 3000 BCE, sesame , eggplant , and humped cattle were domesticated in the Indus Valley; spices like turmeric , cardamom , black pepper and mustard were harvested in the region concurrently. For a thousand years, wheat and rice served as basic comestibles in the Indus Valley region."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Regional cuisine includes:"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_013",
+            "query": "Which specific preparation steps or core ingredients are essential for Tandoori chicken, samosas and khandvi?",
+            "response": "The specific preparation steps or core ingredients essential for Tandoori chicken, samosas, and khandvi are:\n\n1. Marinating the chicken in a mixture of spices and yogurt before roasting in a clay oven.\n2. Using a combination of spices including cayenne pepper, chilli powder, cumin, ground coriander, garam masala, ginger, and turmeric.\n3. Adding red food coloring to enhance the color of the cayenne pepper and chilli powder.\n4. The type of rice and lentil pancake mentioned in source 3.\n5. The red sauce mentioned in source 3.\n6. The dough mentioned in source 3.\n7. The oil and water mentioned in source 3.\n8. The flour mentioned in source 3.\n9. The oil mentioned in source 3.\n10. The water mentioned in source 3.\n11. The lemons mentioned in source 3.\n12. The tandoori masala mentioned in source 3.\n13. The red food coloring mentioned in source 3.\n14. The red food coloring mentioned in source 3.\n15. The red food coloring mentioned in source 3.\n16. The red food coloring mentioned in source 3.\n17. The red food coloring mentioned in source 3.\n18. The red food coloring mentioned in source 3.\n19. The red food coloring mentioned in source 3.\n20. The red food coloring mentioned in source 3.\n21. The red food coloring mentioned in source 3.\n22. The red food coloring mentioned in source 3.\n23. The red food coloring mentioned in source 3.\n24. The red food coloring mentioned in source 3.\n25. The red food coloring mentioned in source 3.\n26. The red food coloring mentioned in source 3.\n27. The red food coloring mentioned in source 3.\n28. The red food coloring mentioned in source 3.\n29. The red food coloring mentioned in source 3.\n30. The red food coloring mentioned in source 3.\n31. The red food coloring mentioned in source 3.\n32. The red food coloring mentioned in source 3.\n33. The red food coloring mentioned in source 3.\n34. The red food coloring mentioned in source 3.\n35. The red food coloring mentioned in source 3.\n36. The",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Tandoori masala is a mixture of spices specifically for use with a tandoor, or clay oven, in traditional Pakistani and Indian Punjabi cooking. The specific spices vary somewhat from one region to another, but typically include fenugreek, cinnamon, cumin, coriander, garlic, ginger, etc."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "- Tandoori chicken : chicken marinated in a mixture of spices and yoghurt and cooked in a clay oven.\n- Thosai : rice and lentil pancake. Also served as a \"masala\" version that includes spiced potatoes and served with different types of sambar, wrapped with thosai which is fried to a crispier texture then the typical homestyle version."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "For this meal I made three typical North Indian appetisers, the first being tandoori chicken. The name comes from a “tandoor”, which is a cylindrical clay oven in which the chicken pieces are typically roasted after being marinated in a mixture of yoghurt, lemon juice and tandoori masala, which contains spices such as cayenne pepper, chilli powder, cumin, ground coriander, garam masala, ginger and turmeric. In modern times, the red colour of the cayenne pepper and chilli powder is often enhanced by the addition of red food colouring to create the deep hue associated with the dish. The tandoor oven is also commonly substituted for a regular oven or barbecue by home cooks. The earliest evidence of people roasting marinated chicken in clay ovens can be traced as far back as 3000 BC in the northwest of India. The dish was then associated with Punjab region, encompassing northern India and Pakistan, subsequently exploding into national and international popularity in the mid 1900s after being publicised by Punjabi chefs of the region and subsequently being advertised by the Los Angeles Times as a fresh new recipe for the American populace to try. Samosas are Indias most famous version of the “pastry-enclosing-filling” concept that I’m increasingly noticing is common the world over. The dough is usually formed with plain wheat flour, oil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "oil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed potato with cooked vegetables such as onions, peas and lentils, mixed together with Indian spices. The samosas can be shaped into forms like triangles, semi-circles or cones, depending on the region, and are usually deep-fried, or alternatively baked for the more health-conscious among us. Although predominantly associated with Indian cuisine in the west, the samosa concept is thought to have originated in the Middle East, where it is now not as popular, and then spread, mostly via merchants, over the years to Africa, Southeast Asia, South Asia and Central Asia, estimated to have arrived in India in the 1200-1300s. Finally, we come to khandvi, perhaps the least famous member of my Indian appetiser plate. This dish originates from regions in the midwest of India, and is made first by forming a batter with yoghurt and gram (chickpea) flour, flavoured with ginger, salt, green chillies and turmeric. This batter is then slowly heated while continuously stirring until thick and smooth, then spread out thinly on a surface to cool and form thin sheets. The sheets are rolled up into tight spirals and seasoned, for instance with tempered black mustard seeds and curry leaves, as well as fresh grated coconut and coriander leaves. I served my three appetisers with a raita, made with yoghurt, mint, cumin, sugar, salt and chilli, and pronounced"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Kerala cuisine is a culinary style originated in Kerala , a state on the southwestern Malabar Coast of India . Kerala cuisine includes both vegetarian and non-vegetarian dishes prepared using fish , poultry and red meat , with rice as a typical accompaniment. Chillies , curry leaves , coconut , mustard seeds , turmeric , tamarind , asafoetida and other spices are also used in the preparation."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_014",
+            "query": "What are some advanced tips, variations, or specific steps that elevate the preparation of Jhilinga (Nepalese Rice Fritters)?",
+            "response": "Based on the information provided, here are some advanced tips, variations, or specific steps that could elevate the preparation of Jhilinga (Nepalese Rice Fritters):\n\nAdvanced Tips:\n1. Adding spices: You can experiment with different spices like cumin, coriander, cardamom, or cinnamon to enhance the flavor of your Jhilinga.\n2. Using different types of rice: Try using different types of rice like basmati, jasmine, or long-grain to create a unique flavor profile.\n3. Adding vegetables: Add chopped onions, ginger, or green chilies to give your Jhilinga a more savory twist.\n4. Making it thicker: For a richer texture, you can add a little bit of coconut milk or yogurt to thicken the batter before frying.\n5. Serving with curry: Serve your Jhilinga with a side of curries or samosas for a complete meal.\n\nVariations:\n1. Adding toppings: You can sprinkle some grated coconut on top of your Jhilinga for extra crunch.\n2. Making it crispy: Fry the fritter until golden brown and crispy on the outside.\n3. Adding cheese: Top with shredded cheese or paneer for an extra layer of flavor.\n4. Making it vegan: Substitute the traditional wheat flour with almond flour or coconut flour for a vegan option.\n5. Making it gluten-free: Replace the wheat flour with a gluten-free alternative like cornstarch or potato starch.\n\nSpecific Steps:\n1. Preparing the batter: Mix together the flour, sugar, and salt in a bowl. Gradually add the water, one tablespoon at a time, stirring well after each addition. Let the batter rest for about 10 minutes.\n2. Frying the fritter: Heat a non-stick pan over medium heat. Pour in the prepared batter and cook until bubbles form on the surface. Flip the fritter and cook for another minute on each side.\n3. Cooking the fritter: Place the fritter onto a paper towel-lined plate and let it cool for a few seconds before flipping it again. Cook for another minute on each side.\n4. Serving: Serve hot and enjoy your homemade Jhilinga!",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Tharu raise chickens and are reported to employ dogs to hunt rats in rice paddies and then roast them whole on sticks. Mutton may be obtained from nomadic hill people such as Kham Magar who take herds of sheep and goats up to sub-alpine pastures bordering the high Himalaya in summer, and down to Inner Madhesh valleys in winter. Increasing competition for land forces the Tharu people away from shifting cultivation toward sedentary agriculture, so the national custom of eating rice with lentils gains headway. The Tharu have unique ways of preparing these staples, such as rice and lentil dumplings called bagiya or dhikri and immature rice is used to make a kind of gruel, maar ."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Asian fried rice recipes:"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "- You can also use whole black lentils instead of lentil flour. In this case, soak them in the water for several hours, remove the outer layer, drain water, and then grind them to a thick paste.\n- In Nepali culture, cooked masyaura is Served with cooked rice."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "- Boil water in a deep pot.\n- Slowly add the required amount rice flour and food color into the boiling water, stirring constantly with a wooden spoon. It is same as the process of making dhindo but without the ghee. The mixture should have a good balance and consistency of flour and water.\n- After it is cooked, process the dough through a noodle machine that can make really thin strips.\n- Shape the dough strips into circles. Set out in the sun for a few days to dry and set.\n- Once evenly set, deep fry them in vegetable oil."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Most dal recipes are quite simple to prepare. The standard preparation begins with boiling a variety of dal (or a mix) in water with some turmeric , salt to taste, and then adding a fried garnish at the end of the cooking process. In some recipes, tomatoes, kokum , unripe mango , jaggery , or other ingredients are added while cooking the dal, often to impart a sweet-sour flavour."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_015",
+            "query": "Provide a brief overview of the defining characteristics of Cuisine of Odisha.",
+            "response": "Cuisine of Odisha is known for using less oil and is less spicy compared to other regional Indian cuisines. The staple food is rice, which is also the main ingredient in many traditional Odian dishes. Mustard oil is commonly used as the cooking medium, but ghee (made of cow's milk) is preferred in temples. Odia foods are traditionally served on brass or bronze metal plates, banana leaves, or disposable plates made of sal leaves.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The cuisine of Odisha is the cuisine of the Indian state of Odisha . Compared to other regional Indian cuisines , Odia cuisine uses less oil and is less spicy , while nonetheless remaining flavorful. Rice is the staple food of this region. Mustard oil is used in some dishes as the cooking medium, but ghee (made of cow's milk) is preferred in temples. Odia foods are traditionally served either on brass or bronze metal plates, banana leaves, or disposable plates made of sal leaves."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Rice is a major crop of Odisha. Lentils such as pigeon peas and moong beans are other major ingredients."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Indian cuisine is characterized by its sophisticated and subtle use of many Indian spices . There is also the widespread practice of vegetarianism across its society although, overall a minority. Indian cuisine is one of the world's most diverse cuisines, each family of this cuisine is characterized by a wide assortment of dishes and cooking techniques. As a consequence, Indian cuisine varies from region to region, reflecting its ethnically diverse demographics . India's religious beliefs and culture has played an influential role in the evolution of its cuisine. It has influences from Middle Eastern cuisine , Southeast Asian cuisine , East Asian cuisine and Central Asian cuisine , as well as the Mediterranean cuisines due to the historical and contemporary cross-cultural interactions with these neighboring regions."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "South Indian cuisine is distinguished by multiple elements, one being the use of intense aromatic mixtures of spices, often extremely spicy hot, for curry dishes. These make use of roasted spices and aromatic herbs, the dishes made hot with chili and pepper , sometimes with coconut milk ."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The food in the region around Puri and Cuttack is greatly influenced by the Jagannath Temple. On the other hand, kalonji and mustard paste are used mostly in every part of the state. In the regions closer to Andhra Pradesh, like Brahmapur , due to the influence of South Indian cuisine , curry leaves and tamarind are used more."
+                }
+            ]
+        }
+    ]
+}
