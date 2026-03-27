@@ -2,63 +2,43 @@
     "queries": [
         {
             "query_id": "SA_001",
-            "query": "How would a food critic likely describe the main traits of Chicken tikka masala, saag paneer and saffron rice?"
+            "query": "Where is Chicken tikka masala believed to have originated in the 1970s?"
         },
         {
             "query_id": "SA_002",
-            "query": "Walk me through the necessary components and techniques to prepare Jhilinga (Nepalese Rice Fritters)."
+            "query": "How is the dough shaped and prepared when making Jhilinga (Nepalese Rice Fritters)?"
         },
         {
             "query_id": "SA_003",
-            "query": "Trace the historical origins and regional evolution of Tamil cuisine."
+            "query": "What ancient historical period do the roots of Tamil cuisine trace back to?"
         },
         {
             "query_id": "SA_004",
-            "query": "Which specific preparation steps or core ingredients are essential for Recheado masala fish and prawn vindaloo?"
+            "query": "How is Recheado masala typically used in Southern Indian seafood preparation?"
         },
         {
             "query_id": "SA_005",
-            "query": "What are some advanced tips, variations, or specific steps that elevate the preparation of Tandoori Masala?"
+            "query": "How should fenugreek and onion seeds be prepared before adding them to Tandoori Masala?"
         },
         {
             "query_id": "SA_006",
-            "query": "Provide a brief overview of the defining characteristics of Bengali cuisine."
+            "query": "What are the primary staple ingredients emphasized in a traditional Bengali meal?"
         },
         {
             "query_id": "SA_007",
-            "query": "What historical or regional factors contribute to the significance of Northern India in Northern India?"
+            "query": "How did the historical Mughal empire influence the culinary traditions of Northern India?"
         },
         {
             "query_id": "SA_008",
-            "query": "What is the primary culinary purpose or profile of Mild Salty Lassi?"
+            "query": "What is the primary culinary purpose of consuming Mild Salty Lassi?"
         },
         {
             "query_id": "SA_009",
-            "query": "What are the staple ingredients or cultural practices that shape Pakistani cuisine?"
+            "query": "What specific religious dietary laws fundamentally shape the preparation of Pakistani cuisine?"
         },
         {
             "query_id": "SA_010",
-            "query": "How would a food critic likely describe the main traits of Chapli kebab, chana chaat and green salad?"
-        },
-        {
-            "query_id": "SA_011",
-            "query": "Walk me through the necessary components and techniques to prepare Hyderabadi Fried Bread with Syrup and Nuts (Double ka meetha)."
-        },
-        {
-            "query_id": "SA_012",
-            "query": "Trace the historical origins and regional evolution of Newar cuisine."
-        },
-        {
-            "query_id": "SA_013",
-            "query": "Which specific preparation steps or core ingredients are essential for Tandoori chicken, samosas and khandvi?"
-        },
-        {
-            "query_id": "SA_014",
-            "query": "What are some advanced tips, variations, or specific steps that elevate the preparation of Jhilinga (Nepalese Rice Fritters)?"
-        },
-        {
-            "query_id": "SA_015",
-            "query": "Provide a brief overview of the defining characteristics of Cuisine of Odisha."
+            "query": "How is chana chaat prepared in Pakistani cuisine?"
         }
     ]
 }
