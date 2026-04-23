@@ -67,7 +67,7 @@
         {
             "query_id": "GEN_WIKI_01",
             "query": "What ancient historical period do the roots of Tamil cuisine trace back to?",
-            "response": "The roots of Tamil cuisine trace back to the ancient Sangam literature dating from the 3rd century BCE to 3rd century CE.",
+            "response": "The roots of Tamil cuisine trace back to the ancient Tamilakam tradition, which predates the arrival of the Indian Tamil diaspora to Southeast Asia and later in the Western world. This tradition has evolved over time, incorporating elements from various ancient civilizations and Sri Lankan culinary traditions.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -75,19 +75,19 @@
                 },
                 {
                     "doc_id": "001",
-                    "text": "[Topic: South Indian cuisine | Section: Early culinary texts]\nAccording to culinary historians K. T. Achaya and Ammini Ramachandran, the ancient Sangam literature dated from 3rd century BCE to 3rd century CE offers early references to food and recipes in the Sangam era, whether a feast at king's palace, meals in towns and countryside, at hamlets in forests, pilgrimage and the rest-houses during travels. It describes cuisine of various landscapes and people who reside there, how they prepared food and what they served their guests"
-                },
-                {
-                    "doc_id": "002",
                     "text": "[Topic: Tamil cuisine | Section: Regional cuisine]\nEach area where Tamils have lived has developed its own distinct variant of the common dishes. The four divisions of ancient Tamilakam prepare their unique Tamil cuisine."
                 },
                 {
-                    "doc_id": "003",
+                    "doc_id": "002",
                     "text": "[Topic: Tamil cuisine | Section: Summary]\nTamil cuisine is the culinary traditions of Tamil-speaking populations, primarily from the southern Indian state of Tamil Nadu and the Tamil-majority regions of Sri Lanka. It encompasses distinct regional styles, broadly divided into the Tamil Nadu style, which forms a key component of South Indian cuisine, and Sri Lankan Tamil cuisine, which has evolved in conjunction with other Sri Lankan culinary traditions."
                 },
                 {
-                    "doc_id": "004",
+                    "doc_id": "003",
                     "text": "[Topic: Kerala cuisine | Section: Summary]\nKerala is known as the \"Land of Spices\" because it traded spices with Europe as well as with many ancient civilizations, with the oldest historical records of the Sumerians from 3000 BCE."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "[Topic: Tamil cuisine | Section: Nutritional classification of Tamil cuisine]\nTamil cuisine includes a wide range of plant-based, animal-based, and preserved foods that collectively provide carbohydrates, proteins, fats, vitamins, minerals, and dietary fibre. The cuisine incorporates cereals, legumes, vegetables, fruits, dairy products, meat, poultry, fish, seafood, and preserved foods such as dried fish and pickles, contributing to a nutritionally diverse dietary pattern. Traditional Tamil diets include both fresh and preserved foods, particularly in coastal and rural regions, where drying, salting, and fermentation have historically been used to extend shelf life and maintain nutrient availability."
                 }
             ],
             "config": {
@@ -675,7 +675,7 @@
         {
             "query_id": "GEN_BLOG_08",
             "query": "What type of dairy products form the heavy foundation of Northern Indian cooking?",
-            "response": "The heavy foundation of Northern Indian cooking is primarily made up of wheat-based foods, particularly breads and pastries. Specifically:\n\n1. **Wheat Flour**: Wheat is the primary ingredient used in many traditional Indian dishes, including tandoori chicken, samosas, and khandvi. It provides the basic structure and texture for these dishes.\n\n2. **Yogurt**: While not as common as in other regions, yogurt plays a significant role in Northern Indian cuisine. It adds flavor and moisture to various dishes, especially those involving dairy products.\n\n3. **Evaporated Milk**: This is another key component in Northern Indian cooking. Evaporated milk is often used in curries and is rich in protein and calcium.\n\n4. **Coconut**: Coconut is used in many Indian recipes, particularly in desserts like tamarind chutney and in savory dishes like samosas and khandvi.\n\nThese ingredients work together to create a robust and flavorful base for Northern Indian cuisine, contributing to its distinctive flavors and textures.",
+            "response": "The heavy foundation of Northern Indian cooking is primarily based on dairy products like cow's milk, ghee (clarified butter), and yogurt.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -691,11 +691,11 @@
                 },
                 {
                     "doc_id": "003",
-                    "text": "[Topic: 6. Northern India | Section: Tandoori chicken, samosas and khandvi]\n. The dough is usually formed with plain wheat flour, oil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed potato with cooked vegetables such as onions, peas and lentils, mixed together with Indian spices. The samosas can be shaped into forms like triangles, semi-circles or cones, depending on the region, and are usually deep-fried, or alternatively baked for the more health-conscious among us"
+                    "text": "[Topic: 6. Northern India | Section: Blog Narrative]\n. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine"
                 },
                 {
                     "doc_id": "004",
-                    "text": "[Topic: 6. Northern India | Section: Tandoori chicken, samosas and khandvi]\n. Although predominantly associated with Indian cuisine in the west, the samosa concept is thought to have originated in the Middle East, where it is now not as popular, and then spread, mostly via merchants, over the years to Africa, Southeast Asia, South Asia and Central Asia, estimated to have arrived in India in the 1200-1300s. Finally, we come to khandvi, perhaps the least famous member of my Indian appetiser plate. This dish originates from regions in the midwest of India, and is made first by forming a batter with yoghurt and gram (chickpea) flour, flavoured with ginger, salt, green chillies and turmeric. This batter is then slowly heated while continuously stirring until thick and smooth, then spread out thinly on a surface to cool and form thin sheets"
+                    "text": "[Topic: North Indian cuisine | Section: Summary]\nSub-types of North Indian cuisine include:"
                 }
             ],
             "config": {
@@ -1283,7 +1283,7 @@
         {
             "query_id": "GEN_WKBK_14",
             "query": "What combination of flours is recommended to achieve extra crispness in Sylheti Onion and Rice Fritters?",
-            "response": "To achieve extra crispness in Sylheti Onion and Rice Fritters, you would recommend using a combination of rice flour and ground rice.",
+            "response": "To achieve extra crispness in Sylheti Onion and Rice Fritters, you would recommend using a combination of flour that has a higher protein content. Specifically, you would use a blend of flour made from gram flour and rice flour, along with some additional ingredients like panch puran (a type of flour), which adds a unique texture and flavor. Additionally, incorporating grated cheese or ghee into the mix can help enhance the crispiness while still maintaining the savory flavors of the dish.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -1303,7 +1303,7 @@
                 },
                 {
                     "doc_id": "004",
-                    "text": "[Topic: Bangladeshi cuisine | Section: Other foods from Sylhet]\nNunor Bora is a savoury snack made of rice flour and with onion, ginger and turmeric, fried to a golden colour."
+                    "text": "[Topic: Bonda (South Indian Vegetable Fritter) | Section: Batter]\n- Mix the gram flour and the rice flour with baking soda. Add salt to taste.\n- Add enough water or beer to make a smooth batter. The batter consistency should be slightly thicker than ketchup."
                 }
             ],
             "config": {

@@ -67,27 +67,27 @@
         {
             "query_id": "GEN_WIKI_01",
             "query": "What ancient historical period do the roots of Tamil cuisine trace back to?",
-            "response": "the early 18th century",
+            "response": "the ancient Sangam period",
             "retrieved_context": [
                 {
                     "doc_id": "000",
-                    "text": "[Topic: Dosa (food) | Section: History]\nAs in Sri Lanka, dosa was introduced far abroad since the early 18th century, by the migration of the Indian Tamil diaspora to Southeast Asia and later in the Western world , and through the worldwide popularisation of Indian and Sri Lankan cuisines since the second half of the 20th century."
+                    "text": "[Topic: South Indian cuisine | Section: Early culinary texts]\nAccording to culinary historians K. T. Achaya and Ammini Ramachandran, the ancient Sangam literature dated from 3rd century BCE to 3rd century CE offers early references to food and recipes in the Sangam era, whether a feast at king's palace, meals in towns and countryside, at hamlets in forests, pilgrimage and the rest-houses during travels. It describes cuisine of various landscapes and people who reside there, how they prepared food and what they served their guests. Poet Avvaiyar for example describes her hearty summer lunch as \"steamed rice, smoked and mashed aubergine and tangy frothy buttermilk\", while poet Mudathama Kanniyar describes \"Skewered goat meat, crispy fried vegetables, rice and over 16 varieties of dishes\" as part of the royal lunch he was treated to in the palace of the Chola king. Sangam literature offers references to food eaten on several different types of leaf platters and thalis with multiple bowls. Sangam period archeological sites like Tirunelveli has uncovered notable household bronzeware utensils including \"ornamental vase stands, bowls, jars and cups of different patterns with ornamental bowl lids\" which were likely used for thali presentation as described in Sangam texts."
                 },
                 {
                     "doc_id": "001",
-                    "text": "[Topic: Tamil cuisine | Section: Regional cuisine]\nEach area where Tamils have lived has developed its own distinct variant of the common dishes. The four divisions of ancient Tamilakam prepare their unique Tamil cuisine."
+                    "text": "[Topic: Dosa (food) | Section: History]\nAs in Sri Lanka, dosa was introduced far abroad since the early 18th century, by the migration of the Indian Tamil diaspora to Southeast Asia and later in the Western world , and through the worldwide popularisation of Indian and Sri Lankan cuisines since the second half of the 20th century."
                 },
                 {
                     "doc_id": "002",
-                    "text": "[Topic: Tamil cuisine | Section: Summary]\nTamil cuisine is the culinary traditions of Tamil-speaking populations, primarily from the southern Indian state of Tamil Nadu and the Tamil-majority regions of Sri Lanka. It encompasses distinct regional styles, broadly divided into the Tamil Nadu style, which forms a key component of South Indian cuisine, and Sri Lankan Tamil cuisine, which has evolved in conjunction with other Sri Lankan culinary traditions."
+                    "text": "[Topic: Tamil cuisine | Section: Regional cuisine]\nEach area where Tamils have lived has developed its own distinct variant of the common dishes. The four divisions of ancient Tamilakam prepare their unique Tamil cuisine."
                 },
                 {
                     "doc_id": "003",
-                    "text": "[Topic: Tamil cuisine | Section: Nutritional classification of Tamil cuisine]\nTamil cuisine includes a wide range of plant-based, animal-based, and preserved foods that collectively provide carbohydrates, proteins, fats, vitamins, minerals, and dietary fibre. The cuisine incorporates cereals, legumes, vegetables, fruits, dairy products, meat, poultry, fish, seafood, and preserved foods such as dried fish and pickles, contributing to a nutritionally diverse dietary pattern. Traditional Tamil diets include both fresh and preserved foods, particularly in coastal and rural regions, where drying, salting, and fermentation have historically been used to extend shelf life and maintain nutrient availability."
+                    "text": "[Topic: Tamil cuisine | Section: Summary]\nTamil cuisine is the culinary traditions of Tamil-speaking populations, primarily from the southern Indian state of Tamil Nadu and the Tamil-majority regions of Sri Lanka. It encompasses distinct regional styles, broadly divided into the Tamil Nadu style, which forms a key component of South Indian cuisine, and Sri Lankan Tamil cuisine, which has evolved in conjunction with other Sri Lankan culinary traditions."
                 },
                 {
                     "doc_id": "004",
-                    "text": "[Topic: Sri Lankan cuisine | Section: Short eats]\n\"Short eats\" (colloquially called \"shorties\") are a ubiquitous category of savory and sweet snacks in Sri Lanka, encompassing items such as patties, cutlets, rolls, samosas, pies, and buns. Though now deeply ingrained in Sri Lankan culture, their origins are a fusion of colonial culinary influences adapted and \"Sri Lankanised\" over the past 80 years. The diverse array of short eats reflects the island's history of foreign presence. European influences (British, Dutch, Portuguese) contributed pies, pastries, fish patties , and the likely ancestor of the breadcrumb-coated cutlet (from the Portuguese bolinho ). Meanwhile Indians introduced samosas and vadais , while Chinese settler communities introduced the breadcrumb-coated \"Chinese roll,\" a spicy, deep-fried spring roll distinct from those found in China, similar to spring roll and egg roll . Actually Cutlet and Chinese roll are croquette ."
+                    "text": "[Topic: Kerala cuisine | Section: Summary]\nKerala is known as the \"Land of Spices\" because it traded spices with Europe as well as with many ancient civilizations, with the oldest historical records of the Sumerians from 3000 BCE."
                 }
             ],
             "config": {
@@ -99,7 +99,7 @@
         {
             "query_id": "GEN_BLOG_02",
             "query": "How is Recheado masala typically used in Southern Indian seafood preparation?",
-            "response": "Recheado masala is typically used in Southern Indian seafood preparation to coat fish, usually mackerel or pomfret, in a spicy, tangy paste called vindaloo.",
+            "response": "Recheado masala is typically used to stuff and coat fish, usually mackerel or pomfret, in a spicy, tangy paste called vindaloo.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -115,11 +115,11 @@
                 },
                 {
                     "doc_id": "003",
-                    "text": "[Topic: Maharashtrian cuisine | Section: Vegetables]\nUntil recently, canned or frozen food was not widely available in India. Therefore, the vegetables used in a meal widely depended on seasonal availability. In Maharashtra, spring (March–May) is the season of cabbages, onions, potatoes, bhēṇḍī , guar and tondaḷi , śēvgyācyā śēṅgā , dudhi , marrow and padwal . During the Monsoon season (June–September) green leafy vegetables, such as aḷū ( Marathi : अळू), or gourds such as karle , dodka and eggplant become available. Chili peppers, carrots, tomatoes, cauliflower , French beans , śēpu , and peas become available in the cooler climate of October to February. Coal fired roasted young cobs of Sorghum (Jvārī) is a popular item during winter picnics to the farms. Vegetables are typically used in making bhājīs (Indian stew). Some bhājīs are made with a single vegetable, while others are made with a combination. Bhājīs can be \"dry\" as in stir fry or \"wet\" as in the well-known curry. For example, fenugreek leaves can be used with mūg ḍāḷ or potatoes to make a dry bhājī or mixed with bēsan flour and buttermilk to make a curry preparation. Marathi bhājīs typically use gōḍa masālā , consisting of a combination of cloves, corriander powder, cumin, cinnamon, asafoetida, etc. and kanda-lasun masala made up of onion, garlic, ginger, red chilli powder, green chillies, turmeric and mustard seeds . Depending on a family's caste or specific religious tradition, onions and garlic may be excluded. For example, a number of Hindu communities from many"
+                    "text": "[Topic: South Indian cuisine | Section: Cuisine]\nAndhra Pradesh cuisine is hotly-spiced and often vegetarian, with seafood prominent along the coast; Kerala too has a range of seafood dishes from its coastline. The cuisine of Tamil Nadu is similarly mainly vegetarian, but even hotter. In Telangana , Hyderabadi cuisine is somewhat milder but subtle and full of flavour, making use of saffron, nuts, and dried fruits as well as warmer spices in dishes for the Nizams , the former rulers. A staple of Karnataka cuisine is jolada rotti , a flat unleavened bread made of sorghum flour. It is eaten with pulse curries, ennegayi (stuffed aubergine ) and chutneys. The cuisine of Lakshadweep is based on coconut, fish, and starches; a range of dishes employ oconut milk. Fish, especially tuna , is important in the cuisine; tuna meat is made into Rihaakuru , a thick brown fish sauce."
                 },
                 {
                     "doc_id": "004",
-                    "text": "[Topic: South Indian cuisine | Section: Cuisine]\nAndhra Pradesh cuisine is hotly-spiced and often vegetarian, with seafood prominent along the coast; Kerala too has a range of seafood dishes from its coastline. The cuisine of Tamil Nadu is similarly mainly vegetarian, but even hotter. In Telangana , Hyderabadi cuisine is somewhat milder but subtle and full of flavour, making use of saffron, nuts, and dried fruits as well as warmer spices in dishes for the Nizams , the former rulers. A staple of Karnataka cuisine is jolada rotti , a flat unleavened bread made of sorghum flour. It is eaten with pulse curries, ennegayi (stuffed aubergine ) and chutneys. The cuisine of Lakshadweep is based on coconut, fish, and starches; a range of dishes employ oconut milk. Fish, especially tuna , is important in the cuisine; tuna meat is made into Rihaakuru , a thick brown fish sauce."
+                    "text": "[Topic: Malvani cuisine | Section: Main course]\n- Kombdi vade (कोंबडी वडे), or chicken Malvani, originated from malvan consists of the traditional Malvani chicken curry (including chicken pieces with bones), vade (like a puri, which is a fluffy, fried bread of Jowar or rice and lentils flour), onion, lemon, and solkadhi.\n- Mori masala (मोरीचां मटण) or shark curry is popular along the Konkan coast.\n- Solkadhi (सोलकढी) is an appetizer made from coconut milk and kokam . It is usually served with kombdi vade , fish, and mutton Malvani.\n- Bangda fry (तळलेलो बांगडो) is a popular dish, especially in Mumbai . The head of the bangda (mackerel) fish is removed and discarded and the other part is fried as a whole.\n- Malvani mutton curry (मटणाचो रस्सो) is a popular dish throughout the Konkan region. It is similar to Chicken Malvani except that the spices are slightly different.\n- Kavda curry (कवड्याचो मटण) is made from a local Konkani bird, Kavda ( Spotted dove ).\n- Bombil fry or Bombay duck fry (तळलेलो बोंबिल) is a popular dish, especially in north Konkan regions such as Mumbai , Palghar and Raigad .\n- Paplet saar (पापलेट सार) is a dish consisting of pomfret cooked in traditional Malvani fish curry.\n- Phanasachi bhaji (फणसाची भाजी) is a vegetarian dish, made from raw jackfruit, chilies and grated coconut.\n- Kajuchi or fakachi usal (काजुची किंवा फकाची उसळ) is a spicy curry of cajus ( cashews ).\n- Prawn curry (कोळंब्यांचा रस्सा)"
                 }
             ],
             "config": {
@@ -387,7 +387,7 @@
         {
             "query_id": "GEN_BLOG_05",
             "query": "How is the savory Gujarati snack khandvi prepared?",
-            "response": "Khandvi is prepared by making a corn chevda out of cooked corn and adding spices like cumin, turmeric, and garam masala.",
+            "response": "Khandvi is prepared by rolling gram flour and dahi (yogurt) into a ball and baking until golden brown.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -395,19 +395,19 @@
                 },
                 {
                     "doc_id": "001",
-                    "text": "[Topic: Gujarati cuisine | Section: Summary]\nGujarati cuisine is the cuisine of the Indian state of Gujarat . The typical Gujarati thali consists of rotli , dal or curry , rice , and shaak (a dish made up of several different combinations of vegetables and spices, which may be either spicy or sweet). The thali will also include preparations made from pulses or whole beans (called kathor in Gujarati) such as moong or black-eyed beans, a snack item ( farsaan ) like dhokla, pathra, samosa, or fafda, and a sweet ( mishthaan ) like mohanthal, jalebi, or sevaiya."
-                },
-                {
-                    "doc_id": "002",
                     "text": "[Topic: Maharashtrian cuisine | Section: Street food, restaurant and homemade snacks]\n- Aluchi vadi is prepared from colocasia leaves rolled in chickpea flour, steamed and then pan fried.\n- Kothimbirichi vadi is made with cilantro leaves.\n- Suralichi vadi is a savory snack made from gram flour and yogurt . It consists of yellowish, tightly rolled bite-sized pieces. with garnishing of coconut, coriander leaves and mustard.\n- Bhelpuri : Bhelpuri (Marathi भेळ) is a savoury snack, and is also a type of chaat . It is made of puffed rice, chopped vegetables such as tomatoes and onions and a tangy tamarind sauce. Bhelpuri is often associated with Mumbai beaches, such as Girguam or Juhu. Bhelpuri is thought to have originated within the cafes and street-food stalls of Mumbai, and has spread across India where it was modified to suit local food availability. It is also said to be originated from Bhadang (भडंग), a spicy puffed-rice dish from Western Maharashtra. Dry bhel is made from bhadang .\n- Sevpuri type of chaat . It originates from Mumbai. In Mumbai, sev puri is strongly associated with street food , but is also served at upscale locations. Supermarkets stock ready-to-eat packets of sev puri and similar snacks like bhelpuri .\n- Ragda pattice is a popular Mumbai fast food. This dish is usually served at restaurants that offer Indian fast food along with other dishes. It is a main item on menus of food stalls. This dish has two parts: ragda , a spicy stew based on dry peas and fried potato patties ."
                 },
                 {
-                    "doc_id": "003",
+                    "doc_id": "002",
                     "text": "[Topic: Dal | Section: Use]\nDal is frequently eaten with flatbreads , such as rotis or chapatis , or with rice. The latter combination is called dal bhat in Nepali , Gujarati , and various other Indian languages. In addition, certain types of dal are fried, salted, and eaten as a dry snack, and a variety of savory snacks are made by frying a paste made from soaked and ground dals in different combinations, to which other ingredients, such as spices and nuts (commonly cashews ) may be added."
                 },
                 {
-                    "doc_id": "004",
+                    "doc_id": "003",
                     "text": "[Topic: Maharashtrian cuisine | Section: Diwali]\nDiwali is one of the most popular Hindu festivals. In Maharashtrian tradition family members have a ritual bath before dawn and then sit down for a breakfast of fried sweets and savory snacks called Diwali Faral. These sweets and snacks are offered to visitors and exchanged with neighbors. Typical sweet preparations include ladu , anarse , shankarpali and karanjya . Popular savory treats include chakli , Shev and chiwda . High in fat and low in moisture, these snacks can be stored at room temperature for many weeks without spoiling."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "[Topic: Gujarati cuisine | Section: Side dishes ( Farsan )]\n- Dabeli (a bread stuffed with the spicy masala mixture)\n- Bhajiya (deep fried savoury snacks; a popular variety is pakora )\n- Dal Vada (deep fried savoury snacks; a popular variety is Dal Pakoda ) Dal vada, Vaati dal na bhajiya\n- Locho (a Surati variety made from chickpea flour)\n- Aloo puri (another Surati variety)\n- Chaat (A mixture of potato pieces, crispy fried bread, and spices topped with chutney , cilantro , and yogurt)\n- Dahi vada (Fried dumplings soaked in yogurt and topped with salt, cumin , and cayenne pepper )\n- Dhokla (steamed cake made primarily of rice flour)\n- Handvo (steamed cake made of rice flour, beans, yogurts, and calabash )\n- Kachori (a deep fried dumpling made of flour and filled with a stuffing of yellow moong dal , black pepper , cayenne pepper , and ginger )\n- Khaman (Steamed cakes made out of gram flour , garnished with green chili pepper and cilantro ; types include nylon khaman and vati dal na khaman\n- Khandvi (roll made of gram flour and dahi (yogurt) topped with mustard seed , cilantro , and grated coconut )\n- Upma\n- Khichu (a thick porridge -like mixture made of rice flour and seasoned with cumin seeds; once prepared, the mixture is often topped with oil , cayenne pepper , and salt )\n- Lilva kachori (a variety of kachori made with pigeon peas )\n- Patra ( Patarveliya )\n- Methi na gota (Fried fenugreek Dumplings)"
                 }
             ],
             "config": {
@@ -675,7 +675,7 @@
         {
             "query_id": "GEN_BLOG_08",
             "query": "What type of dairy products form the heavy foundation of Northern Indian cooking?",
-            "response": "Dairy products form the heavy foundation of Northern Indian cooking, primarily consisting of reduced milk, ground almonds, lentil flour, and ghee.",
+            "response": "Dairy products form the heavy foundation of Northern Indian cooking, particularly in curries and samosas.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -683,19 +683,19 @@
                 },
                 {
                     "doc_id": "001",
-                    "text": "[Topic: 6. Northern India | Section: Chole bhature]\nChole bhature refers to a dish of spicy chickpeas (chole) and a fried puffy bread (bhature) that is thoroughly enjoyed in the Punjab region of northern India, particularly (though not exclusively) for breakfast. The concept of eating spicy food for breakfast makes perfect sense to me and I would happily devour this dish every morning, although I understand that for some the idea of eating anything spicier than cardboard is non-negotiable before lunch. Perhaps the idea of a lassi first thing in the morning would appeal more widely in the west, lassi being a sweet yoghurt drink sometimes flavoured with fruit that often accompanies a breakfast of chole bhature in India. I made my chole (also called chana masala) by first food-processing raw onion, garlic, tomatoes, green chilli and ginger into a paste, which I then fried along with whole roasted spices (cumin seeds, cinnamon, cloves, cardamom and peppercorns). Once the paste had cooked down and begun to caramelise, I added the whole cooked chickpeas, as well as turmeric, chilli powder, coriander seed powder, hing, amchur powder, and finally lots of garam masala with enough water to form a thick simmering stew. I made my bhature by forming a dough out of fine plain wheat flour (called maida in India), semolina, yoghurt, baking soda, salt, sugar, oil and water, leaving it to rest for a couple of hours, then separating it into small bowls that I rolled out into flat circles and deep fried. The leavening imparted by the baking soda"
-                },
-                {
-                    "doc_id": "002",
                     "text": "[Topic: 6. Northern India | Section: Malai kofta curry with naan and salad]\nA dear friend of mine grew up in a family with a Sri Lankan chef who specialised in varieties of Indian food, and this meal was always a favourite in their house. She has since perfected the recipe, and generously bequeathed it to me. The first time she made it for me, it was a revolutionary experience. I always loved Indian food, but had only ever had the creamy, rich curries from Westernised restaurants in Australia, which is purportedly not exactly “the real deal”. This, on the other hand, was a subtle, sweet and aromatic balance of fresh flavours and textures, unlike anything I had ever tried. The sauce (which could be eaten by itself with a spoon, it’s that tasty), has a base of finely chopped caramelised onions and carrots, tomato, coconut milk, and many spices including cloves, nutmeg, cinnamon, cardamom, garam masala, ground coriander, chilli, garlic, onion, ginger, turmeric, cumin, star anise etc. The balance between all of these is hard to reach, but if you get it right, no single one is overpowering, and you just have a delicious symphony. The balls on top are home-made spiced ricotta, crumbed and deep fried. It’s surprisingly simple to make ricotta, all you do is boil milk, then add acid (lemon juice or white vinegar) slowly, stirring, until it’s curdled. Then you just sieve the curds through a cloth, and you have ricotta. I find a specially-bought pillowcase works well to strain it through, and not, as my boyfriend insists on telling dinner guests, his pillowcase"
                 },
                 {
+                    "doc_id": "002",
+                    "text": "[Topic: South Asian cuisine | Section: Staples and common ingredients]\nCommon meats include goat, fish, chicken and beef . Beef is less common in India than in other South Asian cuisines because cattle have a special place in Hinduism . Prohibitions against beef extend to the meat of (water) buffalo and yaks to some extent. Lamb is common in certain regions but not always prominent. Pork is considered a taboo food item by all Muslims. However it is avoided by Hindus despite not being taboo, though it is commonly eaten in some regions like Northeast India and Goa . A variety of very sweet desserts which use dairy products is also found in the cuisines of the Indian subcontinent. The main ingredients in desserts of the Indian subcontinent are reduced milk, ground almonds, lentil flour, ghee and sugar. Kheer , a dairy-based rice pudding, is a common dessert."
+                },
+                {
                     "doc_id": "003",
-                    "text": "[Topic: 6. Northern India | Section: Tandoori chicken, samosas and khandvi]\ncoconut and coriander leaves. I served my three appetisers with a raita, made with yoghurt, mint, cumin, sugar, salt and chilli, and pronounced the dish an excellent literal and figurative starter to North Indian week!"
+                    "text": "[Topic: 6. Northern India | Section: Tandoori chicken, samosas and khandvi]\noil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed potato with cooked vegetables such as onions, peas and lentils, mixed together with Indian spices. The samosas can be shaped into forms like triangles, semi-circles or cones, depending on the region, and are usually deep-fried, or alternatively baked for the more health-conscious among us. Although predominantly associated with Indian cuisine in the west, the samosa concept is thought to have originated in the Middle East, where it is now not as popular, and then spread, mostly via merchants, over the years to Africa, Southeast Asia, South Asia and Central Asia, estimated to have arrived in India in the 1200-1300s. Finally, we come to khandvi, perhaps the least famous member of my Indian appetiser plate. This dish originates from regions in the midwest of India, and is made first by forming a batter with yoghurt and gram (chickpea) flour, flavoured with ginger, salt, green chillies and turmeric. This batter is then slowly heated while continuously stirring until thick and smooth, then spread out thinly on a surface to cool and form thin sheets. The sheets are rolled up into tight spirals and seasoned, for instance with tempered black mustard seeds and curry leaves, as well as fresh grated coconut and coriander leaves. I served my three appetisers with a raita, made with yoghurt, mint, cumin, sugar, salt and chilli, and pronounced"
                 },
                 {
                     "doc_id": "004",
-                    "text": "[Topic: South Asian cuisine | Section: Staples and common ingredients]\nCommon meats include goat, fish, chicken and beef . Beef is less common in India than in other South Asian cuisines because cattle have a special place in Hinduism . Prohibitions against beef extend to the meat of (water) buffalo and yaks to some extent. Lamb is common in certain regions but not always prominent. Pork is considered a taboo food item by all Muslims. However it is avoided by Hindus despite not being taboo, though it is commonly eaten in some regions like Northeast India and Goa . A variety of very sweet desserts which use dairy products is also found in the cuisines of the Indian subcontinent. The main ingredients in desserts of the Indian subcontinent are reduced milk, ground almonds, lentil flour, ghee and sugar. Kheer , a dairy-based rice pudding, is a common dessert."
+                    "text": "[Topic: 6. Northern India | Section: Tandoori chicken, samosas and khandvi]\nFor this meal I made three typical North Indian appetisers, the first being tandoori chicken. The name comes from a “tandoor”, which is a cylindrical clay oven in which the chicken pieces are typically roasted after being marinated in a mixture of yoghurt, lemon juice and tandoori masala, which contains spices such as cayenne pepper, chilli powder, cumin, ground coriander, garam masala, ginger and turmeric. In modern times, the red colour of the cayenne pepper and chilli powder is often enhanced by the addition of red food colouring to create the deep hue associated with the dish. The tandoor oven is also commonly substituted for a regular oven or barbecue by home cooks. The earliest evidence of people roasting marinated chicken in clay ovens can be traced as far back as 3000 BC in the northwest of India. The dish was then associated with Punjab region, encompassing northern India and Pakistan, subsequently exploding into national and international popularity in the mid 1900s after being publicised by Punjabi chefs of the region and subsequently being advertised by the Los Angeles Times as a fresh new recipe for the American populace to try. Samosas are Indias most famous version of the “pastry-enclosing-filling” concept that I’m increasingly noticing is common the world over. The dough is usually formed with plain wheat flour, oil and water, unleavened and rolled thin, and the filling is only limited by the cook’s imagination, although typically involves a base of mashed"
                 }
             ],
             "config": {
@@ -995,7 +995,7 @@
         {
             "query_id": "GEN_WKBK_11",
             "query": "Why is it necessary to let the Sylheti Handesh dough rest before it is deep-fried?",
-            "response": "To allow the dough to come together into a dough, flatten or roll out the dough, and then cut out pieces, it must be allowed to rest before being deep-fried.",
+            "response": "To allow the Sylheti Handesh dough to puff up and turn golden brown before being deep-fried, it must rest.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -1003,19 +1003,19 @@
                 },
                 {
                     "doc_id": "001",
-                    "text": "[Topic: Sylheti Onion and Rice Fritters | Section: Preparation]\n- Blend the onions, ginger, and garlic, then add them to a saucepan with the boiling water.\n- Season the mixture with salt and turmeric powder. Optionally incorporate panch puran.\n- Stir plain flour, rice flour, and/or ground rice into the saucepan, forming a spongy, soft paste.\n- Once the paste is fully cooked, remove it from the saucepan and let it cool.\n- Knead the paste on a floured surface until it comes together into a dough.\n- Flatten or roll out the dough, then cut out pieces.\n- Deep fry the dough pieces in hot oil, then drain and serve."
+                    "text": "[Topic: Bangladeshi cuisine | Section: Other foods from Sylhet]\nHandesh is a snack made of deep-fried dough sweetened with molasses or sugar. It is served on special occasions such as the festival of Eid al-Fitr ."
                 },
                 {
                     "doc_id": "002",
-                    "text": "[Topic: Sylheti Handesh | Section: Ingredients]\n- 1 cup organic date syrup (traditional), molasses, or sugar\n- 2 cups rice flour\n- Cooking oil for deep frying"
+                    "text": "[Topic: Sylheti Handesh | Section: Introduction]\nSylheti handesh, also known as Guror handesh in the Sylhet region, is a delightful sweet and puffy deep-fried pitha that can also be enjoyed as a snack. This traditional delicacy is deeply rooted in Sylheti culture and is especially popular during the celebration of Eid, naming ceremonies, and wedding festivities. Handesh is made from a combination of molasses or sugar and rice flour, creating a unique and delectable treat. In the past, it was crafted from rice threshed using traditional, unmotorized Dheki equipment, adding to its historical significance."
                 },
                 {
                     "doc_id": "003",
-                    "text": "[Topic: Sylheti Onion and Rice Fritters | Section: Notes, tips, and variations]\n- The dough pieces can be frozen and stored before frying."
+                    "text": "[Topic: Sylheti Onion and Rice Fritters | Section: Preparation]\n- Blend the onions, ginger, and garlic, then add them to a saucepan with the boiling water.\n- Season the mixture with salt and turmeric powder. Optionally incorporate panch puran.\n- Stir plain flour, rice flour, and/or ground rice into the saucepan, forming a spongy, soft paste.\n- Once the paste is fully cooked, remove it from the saucepan and let it cool.\n- Knead the paste on a floured surface until it comes together into a dough.\n- Flatten or roll out the dough, then cut out pieces.\n- Deep fry the dough pieces in hot oil, then drain and serve."
                 },
                 {
                     "doc_id": "004",
-                    "text": "[Topic: Sylheti Onion and Rice Fritters | Section: See also]\n- Sylheti Fried Rice\n- Sylheti Handesh"
+                    "text": "[Topic: Sylheti Handesh | Section: Ingredients]\n- 1 cup organic date syrup (traditional), molasses, or sugar\n- 2 cups rice flour\n- Cooking oil for deep frying"
                 }
             ],
             "config": {
@@ -1347,7 +1347,7 @@
         {
             "query_id": "GEN_BLOG_15",
             "query": "Which historical groups introduced and influenced the significance of Biriyani in Southern India?",
-            "response": "The historical groups introduced and influenced the significance of Biriyani in Southern India through the introduction of Central Asian influences during the Mughal Empire.",
+            "response": "Muslims introduced and influenced the significance of biryani in Southern India through their prohibition against eating pork and alcohol, leading to the focus on beef, lamb, chicken, fish, vegetables, and traditional fruits and dairy in Hindu Sindhi cuisine.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -1355,19 +1355,19 @@
                 },
                 {
                     "doc_id": "001",
-                    "text": "[Topic: Kerala cuisine | Section: Mappila cuisine]\nKuzhi Mandi ( Mandi (food) ) is another popular item, which has an influence from Yemen . Malabar biriyani is known as Thalassery biriyani which uses kaima rice for preparation and is called dum biriyani. Malabar biriyani originated from Thalassery and spread to other places."
-                },
-                {
-                    "doc_id": "002",
-                    "text": "[Topic: North Indian cuisine | Section: Summary]\nNorth Indian cuisine has some Central Asian influences introduced during Mughal Empire as compared to its southern or eastern counterparts in the subcontinent."
-                },
-                {
-                    "doc_id": "003",
                     "text": "[Topic: Kodava people | Section: Rajas]\nThe Kadamba ruled North Karnataka along with Goa and parts of Maharashtra while the Gangas ruled South Karnataka and parts of Andhra and Tamil Nadu prior to 1000AD. The regions of Hassan, Kodagu, Tulunad and Waynad were ruled between them. Later the cholas entered Karnataka to rule, but it was short lived. The Hoysalas succeeded them and ruled Southern Karnataka (including Tulunad and Kodagu) and parts of Tamil Nadu. In the aftermath of the Delhi Sultanate invasion of South India (around 1319) the Vijaynagara Hindu Empire arose to rule South India until their downfall in the 16th century. From around 1600 until 1834 the Haleri Rajas ruled over Kodagu."
                 },
                 {
-                    "doc_id": "004",
+                    "doc_id": "002",
                     "text": "[Topic: Kodava people | Section: Origin]\n- Kannada inscriptions speak of this region as being called Kudagu nad (parts of Kodagu, Western Mysore and Kerala) as well. Both the name of the natives and of the region are synonymous (Kodava-Kodavu; Kodaga-Kodagu; Coorgs-Coorg).\n- In 1398 AD, when the Vijaynagara Empire ruled southern India, Mangaraja, a Kannada poet, wrote in his lexicon about the Kodavas saying that they were a warrior people who were fond of hunting game for sport."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "[Topic: Sindhi cuisine | Section: Historical influences]\nThe arrival of Islam within the Indian subcontinent influenced the local cuisine to a great degree. As Muslims are forbidden to eat pork or consume alcohol and the Halal dietary guidelines are strictly observed, Muslim Sindhis focus on ingredients such as beef , lamb , chicken , fish , vegetables and traditional fruit and dairy . Hindu Sindhi cuisine is almost identical with the difference that beef is omitted. The influence of Central Asian , South Asian and Middle Eastern cuisine in Sindhi food is ubiquitous. Sindhi cuisine was also found in India , where many Sindhi Hindus migrated following the Partition of India in 1947. Before Independence, the State of Sindh was under Bombay Presidency ."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "[Topic: South Indian cuisine | Section: Early culinary texts]\nSeveral notable Indian cookbooks were written in southern India in the medieval period. These include Lokopakara (1025 CE), Manasollasa (1130 CE), Soopa Shastra (1508 CE), Bhojana Kutuhala (1675 CE), and Sivatattva Ratnakara (1699 CE). These cookbooks contains both vegetarian and non-vegetarian cuisines, with exception of Soopa Shastra which is a Jain vegetarian cookbook."
                 }
             ],
             "config": {
