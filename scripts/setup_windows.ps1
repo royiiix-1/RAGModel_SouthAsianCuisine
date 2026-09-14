@@ -27,7 +27,7 @@ function Get-PythonVersion {
 function Assert-SupportedPython {
     param([Parameter(Mandatory = $true)][version]$Version)
 
-    if ($Version -lt [version]"3.10" -or $Version -ge [version]"3.13") {
+    if ($Version -lt [version]"3.11" -or $Version -ge [version]"3.13") {
         throw "Python $Version is unsupported. Install Python 3.11 (recommended) or use the Conda instructions in README.md."
     }
 }
@@ -44,7 +44,7 @@ if ($PythonPath) {
 else {
     $Launcher = Get-Command py -ErrorAction SilentlyContinue
     if (-not $Launcher) {
-        throw "The Windows py launcher was not found. Pass -PythonPath with a Python 3.10-3.12 executable, or use the Conda setup in README.md."
+        throw "The Windows py launcher was not found. Pass -PythonPath with a Python 3.11-3.12 executable, or use the Conda setup in README.md."
     }
     $BasePython = $Launcher.Source
     $BaseArguments = @("-3.11")

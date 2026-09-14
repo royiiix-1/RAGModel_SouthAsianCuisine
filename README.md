@@ -46,7 +46,7 @@ artifact lifecycle.
 
 ## Requirements
 
-- Python 3.10, 3.11, or 3.12 (**3.11 recommended; Python 3.13 is not supported**)
+- Python 3.11 or 3.12 (**3.11 recommended; Python 3.10 and 3.13 are not supported**)
 - Approximately 2 GB free disk space for Python packages and pinned model caches
 - More memory is required when the optional reranker and Qwen are loaded together
 - Internet access on the first index build and first generated answer
@@ -111,7 +111,7 @@ Manual equivalent:
 ```powershell
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
-python --version                 # must report 3.10.x, 3.11.x, or 3.12.x
+python --version                 # must report 3.11.x or 3.12.x
 python -m pip install --upgrade pip
 python -m pip install -e ".[notebook,ui]"
 python -m pip check
@@ -141,7 +141,7 @@ generation model.
 ### Fixing an incompatible existing `.venv`
 
 If installation reports `requires a different Python: 3.13.x not in
-'<3.13,>=3.10'`, the environment was created with Python 3.13. If NumPy or regex
+'<3.13,>=3.11'`, the environment was created with Python 3.13. If NumPy or regex
 then reports `cp312` binaries under Python 3.13, the same directory contains
 packages from two Python versions. Do not reinstall individual libraries into
 that mixed environment. Recreate it with the script above, or create the clean
@@ -236,7 +236,8 @@ not automatically load `.env` files. Important settings:
 Changing any embedding or chunking setting invalidates the current index and
 requires `rag-cuisine build-index`. The runtime detects this automatically.
 `requirements.lock` pins the complete production dependency graph used by the
-container; regenerate it deliberately after dependency review and rerun evaluation.
+container. Regenerate it using the oldest supported interpreter (Python 3.11),
+then verify installation on both 3.11 and 3.12 before updating the lock.
 
 ## Known release blockers
 

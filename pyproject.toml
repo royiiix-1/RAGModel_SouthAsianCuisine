@@ -7,12 +7,12 @@ name = "south-asian-cuisine-rag"
 version = "2.0.0"
 description = "A traceable, local RAG service for South Asian culinary knowledge."
 readme = "README.md"
-requires-python = ">=3.10,<3.13"
+requires-python = ">=3.11,<3.13"
 dependencies = [
   "accelerate>=1.2,<2",
   "faiss-cpu>=1.9,<2",
   "fastapi>=0.115,<1",
-  "numpy>=1.26,<3",
+  "numpy>=1.26,<2.5",
   "pydantic>=2.10,<3",
   "safetensors>=0.5,<1",
   "sentence-transformers>=3.4,<6",
@@ -51,12 +51,12 @@ testpaths = ["tests"]
 
 [tool.ruff]
 line-length = 100
-target-version = "py310"
+target-version = "py311"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
 
 [tool.mypy]
-python_version = "3.10"
+python_version = "3.11"
 strict = true
 warn_unreachable = true
