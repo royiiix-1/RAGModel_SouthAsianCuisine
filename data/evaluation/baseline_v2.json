@@ -26,7 +26,7 @@
   },
   "inputs": {
     "benchmark_sha256": "4c1c511fa0eb94fead4524849c9c148cf40c7952a4ff89f256b46e297d3cb317",
-    "no_answer_sha256": "58ab3b344890601ed2c85e798f37f071cef449621c2e0fd68147ceffc744e0ba"
+    "no_answer_sha256": "127426c5fd3fd3e4135e57bcc6333fa5030713967ada5bb32c1a5ea841c7f3fd"
   },
   "metrics": {
     "examples": 28,

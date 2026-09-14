@@ -8,7 +8,9 @@ from south_asian_cuisine_rag.config import PROJECT_ROOT
 
 
 def digest(path: str) -> str:
-    return hashlib.sha256((PROJECT_ROOT / path).read_bytes()).hexdigest()
+    text = (PROJECT_ROOT / path).read_text(encoding="utf-8")
+    canonical = text.replace("\r\n", "\n").replace("\r", "\n").encode("utf-8")
+    return hashlib.sha256(canonical).hexdigest()
 
 
 class EvaluationBaselineTests(unittest.TestCase):
