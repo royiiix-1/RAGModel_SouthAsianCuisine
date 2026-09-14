@@ -1,0 +1,62 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "south-asian-cuisine-rag"
+version = "2.0.0"
+description = "A traceable, local RAG service for South Asian culinary knowledge."
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "accelerate>=1.2,<2",
+  "faiss-cpu>=1.9,<2",
+  "fastapi>=0.115,<1",
+  "numpy>=1.26,<3",
+  "pydantic>=2.10,<3",
+  "safetensors>=0.5,<1",
+  "sentence-transformers>=3.4,<6",
+  "torch>=2.2,<3",
+  "transformers>=4.48,<6",
+  "typer>=0.15,<1",
+  "uvicorn[standard]>=0.34,<1",
+]
+
+[project.optional-dependencies]
+ui = ["gradio>=5,<7"]
+notebook = [
+  "ipykernel>=6,<8",
+  "ipywidgets>=8,<9",
+  "jupyterlab>=4,<5",
+  "matplotlib>=3.9,<4",
+  "pandas>=2.2,<4",
+]
+dev = [
+  "httpx>=0.28,<1",
+  "mypy>=1.14,<2",
+  "pytest>=8,<10",
+  "pytest-cov>=6,<8",
+  "ruff>=0.9,<1",
+]
+
+[project.scripts]
+rag-cuisine = "south_asian_cuisine_rag.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/south_asian_cuisine_rag"]
+
+[tool.pytest.ini_options]
+addopts = "-q --strict-markers"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+warn_unreachable = true

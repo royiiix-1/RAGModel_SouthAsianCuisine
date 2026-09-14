@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "code_version": "2.0.0",
+  "created_at": "2026-09-02T19:41:20.856771+00:00",
+  "environment": {
+    "platform": "Windows CPU",
+    "python": "3.12.13",
+    "torch": "2.14.0+cpu",
+    "transformers": "5.16.1",
+    "sentence_transformers": "5.7.0",
+    "faiss": "1.15.0"
+  },
+  "model": {
+    "id": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775"
+  },
+  "embedding": {
+    "id": "BAAI/bge-small-en-v1.5",
+    "revision": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a"
+  },
+  "artifact": {
+    "fingerprint": "c6bb607dcd10e46a2a4b2098b757decb2b1ef85400549a0ee46880748e0067d0",
+    "documents": 1727,
+    "parents": 1826,
+    "children": 3831
+  },
+  "inputs": {
+    "benchmark_sha256": "4c1c511fa0eb94fead4524849c9c148cf40c7952a4ff89f256b46e297d3cb317",
+    "no_answer_sha256": "58ab3b344890601ed2c85e798f37f071cef449621c2e0fd68147ceffc744e0ba"
+  },
+  "metrics": {
+    "examples": 28,
+    "answer_examples": 20,
+    "no_answer_examples": 8,
+    "mean_token_f1": 0.562786360664879,
+    "mean_required_fact_recall": 0.93,
+    "full_required_fact_coverage": 0.75,
+    "source_hit_rate": 1.0,
+    "source_hit_at_1": 1.0,
+    "source_mrr": 1.0,
+    "no_answer_accuracy": 1.0,
+    "latency_ms_p50": 2955.4653000086546,
+    "latency_ms_p95": 14128.808699984802
+  }
+}

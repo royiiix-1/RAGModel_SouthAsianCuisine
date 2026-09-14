@@ -1,9 +1,30 @@
 __pycache__/
-*.pyc
-
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+.venv*/
 venv/
-env/
 .env
 
+# Runtime and model artifacts are reproducible and must not be committed.
+artifacts/*
+!artifacts/.gitkeep
+evaluation-results/*
+!evaluation-results/.gitkeep
+
+# Local model caches
+.cache/
+huggingface-cache/
+
+# Editors / operating systems
+.idea/
+.vscode/
 .DS_Store
 Thumbs.db

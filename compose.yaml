@@ -1,0 +1,27 @@
+services:
+  indexer:
+    build: .
+    profiles: ["tools"]
+    command: ["rag-cuisine", "build-index"]
+    environment:
+      RAG_DEVICE: cpu
+    volumes:
+      - rag-artifacts:/app/artifacts
+      - huggingface-cache:/home/rag/.cache/huggingface
+
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      RAG_ENVIRONMENT: production
+      RAG_DEVICE: ${RAG_DEVICE:-cpu}
+      RAG_API_KEY: ${RAG_API_KEY:?Set RAG_API_KEY before starting the API}
+    volumes:
+      - rag-artifacts:/app/artifacts
+      - huggingface-cache:/home/rag/.cache/huggingface
+    restart: unless-stopped
+
+volumes:
+  rag-artifacts:
+  huggingface-cache:
