@@ -125,10 +125,11 @@ safetensors==0.8.0
     #   transformers
 scikit-learn==1.9.0
     # via sentence-transformers
-scipy==1.18.1
+scipy==1.17.1
     # via
     #   scikit-learn
     #   sentence-transformers
+    #   south-asian-cuisine-rag (pyproject.toml)
 sentence-transformers==5.7.0
     # via south-asian-cuisine-rag (pyproject.toml)
 shellingham==1.5.4
