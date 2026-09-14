@@ -5,7 +5,7 @@ import json
 import os
 import uuid
 from dataclasses import asdict, dataclass
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
@@ -205,7 +205,7 @@ def write_artifacts(
 
         manifest = ArtifactManifest(
             schema_version=MANIFEST_SCHEMA_VERSION,
-            created_at=datetime.now(timezone.utc).isoformat(),
+            created_at=datetime.now(UTC).isoformat(),
             index_fingerprint=settings.index_fingerprint(),
             embedding_model=settings.embedding_model,
             embedding_revision=settings.embedding_revision,

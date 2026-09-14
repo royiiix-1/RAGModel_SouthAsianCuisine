@@ -7,7 +7,7 @@ import re
 from collections import Counter
 from collections.abc import Callable
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
@@ -256,7 +256,7 @@ def evaluate(
     }
     return {
         "schema_version": 1,
-        "created_at": datetime.now(timezone.utc).isoformat(),
+        "created_at": datetime.now(UTC).isoformat(),
         "model": service.settings.generation_model,
         "model_revision": service.settings.generation_revision,
         "aggregate": aggregate,
